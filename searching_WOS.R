@@ -46,10 +46,180 @@ species_list$wos<-"NA"
 for(species_ in species_names_ais) {
   
   
-  species_res[[species_]] = wos_search(sid=sid, query=paste0('TS=(', species_, " AND invas*", ")"), editions = collections)
+  species_res[[species_]] = wos_search(sid=sid, query=paste0('TS=(', species_, " AND (invas* OR introduced OR non-native OR alien OR exotic)", ")"), editions = collections)
   species_list[species_list$Species.name== paste0(species_), ]$wos<-species_res[[species_]]$results
   Sys.sleep(0.5)
 }
 
 species_list$wos<-as.numeric(species_list$wos)
 
+write.csv(species_list, file="Outputs/species_list.csv")
+
+#### Now do this for vectors
+####### Pet or aquarium trade
+species_list$wos_pet_trade<-"NA"
+species_res_pet_trade = list()
+
+for(species_ in species_names_ais) {
+  
+  
+  species_res_pet_trade[[species_]] = wos_search(sid=sid, query=paste0('TS=(', species_, " AND (aquarium trade OR pet trade OR aquarium OR pet)", ")"), editions = collections)
+  species_list[species_list$Species.name== paste0(species_), ]$wos_pet_trade<-species_res_pet_trade[[species_]]$results
+  Sys.sleep(0.5)
+}
+
+species_list$wos_pet_trade<-as.numeric(species_list$wos_pet_trade)
+
+
+####### Live trade
+species_list$wos_live_trade<-"NA"
+species_res_live_trade = list()
+
+for(species_ in species_names_ais) {
+  
+  
+  species_res_live_trade[[species_]] = wos_search(sid=sid, query=paste0('TS=(', species_, " AND (live trade OR live market)", ")"), editions = collections)
+  species_list[species_list$Species.name== paste0(species_), ]$wos_live_trade<-species_res_live_trade[[species_]]$results
+  Sys.sleep(0.5)
+}
+
+species_list$wos_live_trade<-as.numeric(species_list$wos_live_trade)
+
+
+
+
+#### Bait
+species_list$wos_bait<-"NA"
+species_res_bait = list()
+
+for(species_ in species_names_ais) {
+  
+  
+  species_res_bait[[species_]] = wos_search(sid=sid, query=paste0('TS=(', species_, " AND (bait OR bait bucket OR bait fish OR bait industry)", ")"), editions = collections)
+  species_list[species_list$Species.name== paste0(species_), ]$wos_bait<-species_res_bait[[species_]]$results
+  Sys.sleep(0.5)
+}
+
+species_list$wos_bait<-as.numeric(species_list$wos_bait)
+
+
+
+# Biological supply
+species_list$wos_biol_supply<-"NA"
+species_res_biol_supply = list()
+
+for(species_ in species_names_ais) {
+  
+  
+  species_res_biol_supply[[species_]] = wos_search(sid=sid, query=paste0('TS=(', species_, " AND (biological supply OR classroom)", ")"), editions = collections)
+  species_list[species_list$Species.name== paste0(species_), ]$wos_biol_supply<-species_res_biol_supply[[species_]]$results
+  Sys.sleep(0.5)
+}
+
+species_list$wos_biol_supply<-as.numeric(species_list$wos_biol_supply)
+
+
+#### aquaculture
+species_list$wos_aquaculture<-"NA"
+species_res_aquaculture = list()
+
+for(species_ in species_names_ais) {
+  
+  
+  species_res_aquaculture[[species_]] = wos_search(sid=sid, query=paste0('TS=(', species_, " AND (aquaculture OR cultivation)", ")"), editions = collections)
+  species_list[species_list$Species.name== paste0(species_), ]$wos_aquaculture<-species_res_aquaculture[[species_]]$results
+  Sys.sleep(0.5)
+}
+
+species_list$wos_aquaculture<-as.numeric(species_list$wos_aquaculture)
+
+
+#### stocking
+species_list$wos_stocking<-"NA"
+species_res_stocking = list()
+
+for(species_ in species_names_ais) {
+  
+  
+  species_res_stocking[[species_]] = wos_search(sid=sid, query=paste0('TS=(', species_, " AND (stocking OR fish stocking OR hatchery)", ")"), editions = collections)
+  species_list[species_list$Species.name== paste0(species_), ]$wos_stocking<-species_res_stocking[[species_]]$results
+  Sys.sleep(0.5)
+}
+
+species_list$wos_stocking<-as.numeric(species_list$wos_stocking)
+
+#### boating
+species_list$wos_boating<-"NA"
+species_res_boating = list()
+
+for(species_ in species_names_ais) {
+  
+  
+  species_res_boating[[species_]] = wos_search(sid=sid, query=paste0('TS=(', species_, " AND (boating OR recreational boating OR watercraft OR float plane)", ")"), editions = collections)
+  species_list[species_list$Species.name== paste0(species_), ]$wos_boating<-species_res_boating[[species_]]$results
+  Sys.sleep(0.5)
+}
+
+species_list$wos_boating<-as.numeric(species_list$wos_boating)
+
+
+#### shipping
+species_list$wos_shipping<-"NA"
+species_res_shipping = list()
+
+for(species_ in species_names_ais) {
+  
+  
+  species_res_shipping[[species_]] = wos_search(sid=sid, query=paste0('TS=(', species_, " AND (shipping OR ballast)", ")"), editions = collections)
+  species_list[species_list$Species.name== paste0(species_), ]$wos_shipping<-species_res_shipping[[species_]]$results
+  Sys.sleep(0.5)
+}
+
+species_list$wos_shipping<-as.numeric(species_list$wos_shipping)
+
+
+#### canal
+species_list$wos_canal<-"NA"
+species_res_canal = list()
+
+for(species_ in species_names_ais) {
+  
+  
+  species_res_canal[[species_]] = wos_search(sid=sid, query=paste0('TS=(', species_, " AND (canal OR diversion)", ")"), editions = collections)
+  species_list[species_list$Species.name== paste0(species_), ]$wos_canal<-species_res_canal[[species_]]$results
+  Sys.sleep(0.5)
+}
+
+species_list$wos_canal<-as.numeric(species_list$wos_canal)
+
+#### spread_adj
+species_list$wos_spread_adj<-"NA"
+species_res_spread_adj = list()
+
+for(species_ in species_names_ais) {
+  
+  
+  species_res_spread_adj[[species_]] = wos_search(sid=sid, query=paste0('TS=(', species_, " AND (Montana OR Idaho OR Alaska OR Washington OR Alberta OR Yukon)", ")"), editions = collections)
+  species_list[species_list$Species.name== paste0(species_), ]$wos_spread_adj<-species_res_spread_adj[[species_]]$results
+  Sys.sleep(0.5)
+}
+
+species_list$wos_spread_adj<-as.numeric(species_list$wos_spread_adj)
+
+
+#### BC
+species_list$wos_bc<-"NA"
+species_res_bc = list()
+
+for(species_ in species_names_ais) {
+  
+  
+  species_res_bc[[species_]] = wos_search(sid=sid, query=paste0('TS=(', species_, " AND (British Columbia)", ")"), editions = collections)
+  species_list[species_list$Species.name== paste0(species_), ]$wos_bc<-species_res_bc[[species_]]$results
+  Sys.sleep(0.5)
+}
+
+species_list$wos_bc<-as.numeric(species_list$wos_bc)
+
+
+write.csv(species_list, file="Outputs/species_list.csv")

@@ -1,0 +1,184 @@
+Species name,common name,taxa_smaller,taxa_big,present in BC,established in BC,established in Canada,native to part of BC,source region to BC,hitlist (according to Therriault and Webb),ornamental/nursery trade,aquarium pet  trade,live food market,biological supply,aquaculture,fish stocking,recreational boating,bait industry,shipping and ballast,canals and diversions,adjacent region,"if adjacent, where",exotic to NA,invasive in NA,globally invasive,Listed in publications,Risk assessment pubs,impact/other pubs
+Salvelinus confluentus,Bull trout,salmonid,fish,,,,,,,,,,,,,,,,,yes,Montana,no,no,no,Crossman 1991,,Clancy and Bourret 2020
+Ptychocheilus oregonensis ,Northern pikeminnow ,pikeminnow,fish,,,,,,No,,,,,,,,,,,yes,Montana,no,no,no,Therriault and Webb 2017,Therriault and Webb 2017,Clancy and Bourret 2020
+Lepisosteus osseus ,Longnose gar,gar,fish,,yes,yes,,,,,yes,,,,,,,,,,,no,no,no,Mandrak et al 2014,,
+Phoxinus neogaeus ,Finescale dace,dace,fish,,yes,yes,,,,,yes,,,,,,,,,,,no,no,no,Mandrak et al 2014,,
+Alosa mediocris,Hickory shad,shad,fish,,,,,,No,,,,,,,,,,,,,no,no,no,Therriault and Webb 2017,Therriault and Webb 2017,
+Ichthyomyzon greeleyi ,Mountain brook lamprey ,lamprey,fish,,,,,,No,,,,,,,,,,,,,no,no,no,Therriault and Webb 2017,Therriault and Webb 2017,
+Lampetra ayresii ,Western river lamprey ,lamprey,fish,,,,,,No,,,,,,,,,,,,,no,no,no,Therriault and Webb 2017,Therriault and Webb 2017,
+Lampetra pacifica ,Pacific brook lamprey ,lamprey,fish,,,,,,No,,,,,,,,,,,,,no,no,no,Therriault and Webb 2017,Therriault and Webb 2017,
+Lethenteron alaskense ,Alaskan brook lamprey,lamprey,fish,,,,,,No,,,,,,,,,,,,,no,no,no,Therriault and Webb 2017,Therriault and Webb 2017,
+Noturus albater ,Ozark madtom ,madtom,fish,,,,,,Yes,,,,,,,,,,,,,no,no,no,Therriault and Webb 2017,Therriault and Webb 2017,
+Noturus elegans ,Elegant madtom ,madtom,fish,,,,,,Yes,,,,,,,,,,,,,no,no,no,Therriault and Webb 2017,Therriault and Webb 2017,
+Percina antesella ,Amber darter ,darter,fish,,,,,,No,,,,,,,,,,,,,no,no,no,Therriault and Webb 2017,Therriault and Webb 2017,
+Percina aurantiaca ,Tangerine darter ,darter,fish,,,,,,No,,,,,,,,,,,,,no,no,no,Therriault and Webb 2017,Therriault and Webb 2017,
+Percina burtoni ,Blotchside darter ,darter,fish,,,,,,No,,,,,,,,,,,,,no,no,no,Therriault and Webb 2017,Therriault and Webb 2017,
+Pteronotropis hypselopterus ,Sailfin shiner ,shiner,fish,,,,,,No,,,,,,,,,,,,,no,no,no,Therriault and Webb 2017,Therriault and Webb 2017,
+Gobio gobio ,Gudgeon ,Gudgeon,fish,,,,,,Yes,,,,,,,,,,,,,no,no,yes,Therriault and Webb 2017,Therriault and Webb 2017,
+Esox lucius,Northern Pike,Pike,fish,,yes,yes,,"Yukon, Alberta",,,,,,,,,,,,yes,"Montana, Alaska, Alberta",no,no?,yes,"Crossman 1991, BC Ministry List",DFO 2010 BC RA,"Clancy and Bourret 2020, (Haught and von Hippel 2011; Sepulveda et al. 2013; Heins et al. 2016; Dunker et al. 2016, 2020; Cathcart et al. 2019, Sepulveda et al. 2018"
+Ameiurus natalis,Yellow bullhead,bullhead catfish,fish,yes,,,,,,,,,,,,,,,,yes,Montana,no,yes,no,BC Ministry List,,Clancy and Bourret 2020
+Richardsonius balteatus,Redside shiner,shiner,fish,yes,,,yes,Alberta,,,,,,,,,,,,yes,Montana,no,yes,no,"Crossman 1991, BC Ministry List",,Clancy and Bourret 2020
+Faxonius virilis,Virile or Northern crayfish,crayfish,invertebrate,yes,,,,#NAME?,,,,,,,,,,,,yes,Washington,no,yes,no,Brown and Therriault,(Larson et al. 2010; Loffredo et al. 2019),
+Rana clamitans,Green frog,frog,amphibian,yes,yes,,yes,,,,,,,,,,,,,,,no,yes,no,BC Ministry List,,
+Salvelinus trutta x Salvelinus namaycush OR Splake,Splake,Splake,fish,yes,,,,,,,,,,,,,,,,,,no,yes,no,BC Ministry List,,
+Catostomus commersonii,White sucker,sucker,fish,,,,,Alberta,,,,,,,yes,,,,,yes,Montana,no,yes,no,Crossman 1991,,Clancy and Bourret 2020
+Alosa sapidissima,American shad,shad,fish,,yes,yes,,USA,,,,,,,,,,,,yes,,no,yes,no,"Crossman 1991, BC Ministry List",,
+Salvelinus fontinalis,Brook trout (eastern),eastern),fish,,yes,yes,,,,,,,,yes,,,,,,yes,"Montana, Idaho, Washington, Alberta",no,yes,no,"Crossman 1991, DFO aquaculture liscences, BC Ministry List",,"Clancy and Bourret 2020, Benjamin and Baxter 2010, Hofman et al. 2014, (Parker and Schindler 2006; Pacas and Taylor 2015)"
+Pomoxis nigromaculatus ,Black crappie,crappie,fish,,yes,yes,,USA,,,yes,,,,,,,,,yes,"Montana, Washington",no,yes,no,"Crossman 1991, Mandrak et al 2014, BC Ministry List",,"Clancy and Bourret 2020, Bonar et al. 2005"
+Culaea inconstans ,Brook stickleback,stickleback,fish,,,,,Alberta,Yes,,,,,,yes,,,,,yes,Washington,no,yes,no,"Crossman 1991, Therriault and Webb 2017",Therriault and Webb 2017,(Scholz et al. 2003; Wieker et al. 2016)
+Perca flavescens,Yellow perch,perch,fish,,yes,yes,yes,"Alberta, USA",Yes,,,,,,,,,,,yes,"Montana, Washington",no,yes,no,"Crossman 1991, Therriault and Webb 2017, BC Ministry List","Therriault and Webb 2017, DFO 2010 BC RA","Clancy and Bourret 2020, Bolding et al. 1998; Hansen et al. 2019, Bonar et al. 2005"
+Notemigonus crysoleucas,golden shiner,shiner,fish,,,yes,,,,,,,,,,,yes,,,yes,Washington,no,yes,no,Keller and Lodge 2007,,Bonar et al. 2005
+Lepomis megalotis ,Longear sunfish ,sunfish,fish,,yes,yes,,,,,yes,,,,,,,,,yes,Montana,no,yes,no,Mandrak et al 2014,,Clancy and Bourret 2020
+Pomoxis annularis ,White crappie ,crappie,fish,,,,,,No,,,,,,,,,,,yes,Montana,no,yes,no,Therriault and Webb 2017,Therriault and Webb 2017,Clancy and Bourret 2020
+Sander vitreus ,Walleye ,Walleye,fish,,yes,,yes,,No,,,,,,,,,,,yes,Montana,no,yes,no,"Therriault and Webb 2017, BC Ministry List","Therriault and Webb 2017, DFO BC RA 2010",Clancy and Bourret 2020
+Lepomis gulosus,Warmouth,sunfish,fish,,,,,,,,,,,,,,,,,yes,Washington,no,yes,no,,,Bonar et al. 2005
+Umbra limi,Central Mud Minnow,Minnow,fish,,,,,,,,,,,,,,,,,yes,Montana,no,yes,no,,,Clancy and Bourret 2020
+Mysis diluviana,Opossum shrimp,shrimp,invertebrate,,,,,,,,,,,,,,,,,yes,"Montana, Idaho, Washington",no,yes,no,,,"Ellis et al 2011, Devlin et al. 2017, Caldwell et al. 2016, Schoen et al. 2015"
+Oncorhynchus aguabonita,Golden trout,salmonid,fish,,,,,,,,maybe,,,,,,,,,,,no,yes,no,Crossman 1991,,
+Amia calva,bowfin,bowfin,fish,,,,,Ontario,,,,,,,,,,,,,,no,yes,no,Crossman 1991,,
+Couesius plumbeus,Lake chub,chub,fish,,,,,Alberta,,,,,,,yes,,,,,,,no,yes,no,Crossman 1991,,
+Hiodon alosoides,Goldeye,Goldeye,fish,,,,,Alberta,,,,,,,,,,,,,,no,yes,no,Crossman 1991,,
+Oncorhynchus keta,Chum salmon,salmonid,fish,,,,,"Alaska, Yukon",,,,,,,,,,,,,,no,yes,no,Crossman 1991,,
+Percopsis omiscomaycus,trout-perch,perch,fish,,,,,,,,,,,,,,,,,,,no,yes,no,Crossman 1991,,
+Platygobio gracilis,Flathead chub,chub,fish,,,,,Alberta,,,,,,,,,,,,,,no,yes,no,Crossman 1991,,
+Gasterosteus aculeatus,Three spined stickleback,stickleback,fish,,,,,,,,,,,,,,,,,,,no,yes,no,Crossman 1991,,
+Lota lota,burbot,burbot,fish,,,,,Northwest territories,,,,,,,,,,,,,,no,yes,no,Crossman 1991,,
+Salvelinus malma,Dolly varden trout,salmonid,fish,,,,,,,,,,,,,,,,,,,no,yes,no,Crossman 1991,,
+Stizostedion vitreum ,Walleye,Walleye,fish,,,,,,,,,,,,,,,,,,,no,yes,no,Crossman 1991,,
+Notropis hudsonius,Margined madtom or spottail shiner,shiner,fish,,yes,,yes,,,,maybe,,,,,,,,,,,no,yes,no,"Crossman 1991, BC Ministry List",,
+Coregonus clupeaformis,Lake whitefish,whitefish,fish,,yes,,yes,,,,,,,,,,,,,,,no,yes,no,"Crossman 1991, BC Ministry List",,
+Acipenser transmontanus ,white sturgeon,sturgeon,fish,,,,,"Oregon, California",,,,,,yes,,,,,,,,no,yes,no,"Crossman 1991, DFO aquaculture liscences",,
+Salvelinus alpinus,Arctic char,char,fish,,,,,"Manitoba, Alaska",,,,,,yes,,,,,,,,no,yes,no,"Crossman 1991, DFO aquaculture liscences",,
+Anguilla rostrata ,American eel,eel,fish,,,yes,,"Newfoundland, Quebec, NY",,,,yes,,,,,,,,,,no,yes,no,"Crossman 1991, Mandrak et al 2014",,
+Ictalurus punctatus ,Channel catfish,catfish,fish,,yes,yes,,Idaho,,,yes,yes,,,,,,,,,,no,yes,no,"Crossman 1991, Mandrak et al 2014",,
+Oncorhynchus kisutch,Coho salmon,salmonid,fish,,,,,,,,,,yes,yes,,,,,,,,no,yes,no,"DFO aquaculture liscence, Gartner et al, 2011",,
+Cyprinella lutrensis ,Red Shiner,Shiner,fish,,yes,no,,,,,yes,yes,,,,,,,,,,no,yes,no,Mandrak et al 2014,,Roy et al. 2018
+Ictiobus cyprinellus ,Bigmouth buffalo,buffalo,fish,,yes,yes,,,,,yes,yes,,,,,,,,,,no,yes,no,Mandrak et al 2014,,
+Lepisosteus oculatus ,Spotted gar,gar,fish,,yes,yes,,,,,yes,,,,,,,,,,,no,yes,no,Mandrak et al 2014,,
+Morone mississippiensis,Yellow bass,bass,fish,,,,,,Yes,,,,,,,,,,,,,no,yes,no,Therriault and Webb 2017,Therriault and Webb 2017,
+Pimephales vigilax ,Bullhead minnow ,minnow,fish,,,,,,No,,,,,,,,,,,,,no,yes,no,Therriault and Webb 2017,Therriault and Webb 2017,
+Sander canadensis ,Sauger ,Sauger,fish,,,,,,No,,,,,,,,,,,,,no,yes,no,Therriault and Webb 2017,Therriault and Webb 2017,
+Faxonius rusticus,rusty crayfish,crayfish,invertebrate,,,yes,,,,,,,,,,,yes,,,,,no,yes,no,"Brown and Therriault, Keller and Lodge 2007",,
+Iris pseudacorus,Yellow iris,iris,aquatic plant,yes,,yes,no,,,yes,,,,,,,,,,,,no,yes,no?,"BC Ministry List, Keller and Lodge 2007",,
+Chelydra serpentina,Eastern snapping turtle,turtle,reptile,yes,,,yes,,,,,,,,,,,,,,,no,yes,no?,BC Ministry List,,
+piscine orthoreovirus,piscine orthoreovirus (PRV-1),,virus,,,,,,,,,,,yes,,,,,,,,no,yes,no?,,,
+Rana catesbeiana,Bullfrog,frog,amphibian,yes,yes,,no,,,,,,,,,,,,,yes,"Montana, Washington",no,yes,yes,BC Ministry List,,"Sepulveda and Layhee 2015, Adams 1999"
+Salvelinus namaycush ,Lake Trout,salmonid,fish,yes,,,yes,,,,,,,yes,,,,,,yes,"Montana, Alberta",no,yes,yes,"DFO aquaculture liscence, BC Ministry List",,"Ellis et al. 2015, Clancy and Bourret 2020, Donald and Alger 1993"
+Lepomis macrochirus ,Bluegill,sunfish,fish,yes,,,,,,,yes,,,,,,,,,yes,"Montana, Washington",no,yes,yes,"Mandrak et al 2014, BC Ministry List",,"Clancy and Bourret 2020, Bonar et al. 2005"
+Pacifastacus leniusculus,Signal crayfish,crayfish,invertebrate,yes,yes,yes,,,,,,,,yes,,,,,,yes,Washington,no,yes,yes,,"(Mueller 2007; Mueller and Bodensteiner 2009; Larson et al. 2017), larson and olden 2013",
+Didymosphenia geminata,Didymo,diatom,phytoplankton,yes,,,yes,,,,,,,,,,,,,yes,"Washington, Alberta",no,yes,yes,BC Ministry List,,"Blinn 2015, Kirkwood et al. 2007, 2009"
+Nymphaea mexicana,Yellow waterlily,waterlily,aquatic plant,yes,,,no,,,yes,,,,,,,,,,,,no,yes,yes,"BC Ministry List, Azan et al. 2015",Azan et al. 2015,
+Vallisneria americana,American tapegrass,tapegrass,aquatic plant,yes,,,no,,,,,,,,,,,,,,,no,yes,yes,"BC Ministry List, Cohen et al. 2007",,
+Myriophyllum heterophyllum,Varied-leaved watermilfoil,watermilfoil,aquatic plant,yes,,,no,,,yes,,,,,,,,,,,,no,yes,yes,"BC Ministry List, DFO SLRA 2014",,
+Pectinatella magnifica,magnificent bryozoan,bryozoan,invertebrate,yes,,,no,,,,,,,,,,,,,,,no,yes,yes,BC Ministry List,,
+Trachemys scripta,red eared Slider,Slider,reptile,yes,yes,,no,,,,yes,,,,,,,,,,,no,yes,yes,BC Ministry List,,
+Ameiurus melas,Black bullhead,bullhead,fish,,yes,yes,,,,,,,yes,,,,,,,yes,Montana,no,yes,yes,"Crossman 1991, BC Ministry List, Keller and Lodge 2007",,Clancy and Bourret 2020
+Oncorhynchus tshawytscha,Chinook salmon,salmonid,fish,,,,,"Yukon, Oregon, Washington",,,,,,yes,,,,,,yes,Washington,no,yes,yes,"Crossman 1991, DFO aquaculture liscences",,Jezorek and Connolly 2015
+Pimephales promelas ,Fathead minnow,minnow,fish,,yes,yes,,Ontario,,,yes,,yes,,,,,,,yes,Montana,no,yes,yes,"Crossman 1991, Mandrak et al 2014, BC Ministry List, Keller and Lodge 2007",,Clancy and Bourret 2020
+Oncorhynchus mykiss ,"Rainbow trout, Steelhead",salmonid,fish,,,yes,,"Ontario, Washington , California, Norway",,,,yes,,yes,,,,,,yes,"Montana, Washington",no,yes,yes,"Crossman 1991, Mandrak et al 2014, DFO aquaculture liscence",,"Carim et al. 2015, Clancy and Bourret 2020, (Ostberg and Rodriguez 2006; Ostberg and Chase 2012), Bonar et al. 2005, Taylor et al. 2007; Pearon and Goater 2008; Rasmussen et al. 2010, 2012; Hanisch et al. 2012, 2013; Yau and Taylor 2013)"
+Salmo salar ,Atlantic salmon,salmonid,fish,,yes,yes,,"Washington, Scotland",,,,yes,,yes,,,,,,yes,Alaska,no,yes,yes,"Crossman 1991, Mandrak et al 2014, DFO aquaculture liscence, BC Ministry List",, (Wing et al. 1992; Piccolo and Orlikowska 2012)
+Ameiurus nebulosus ,Brown bullhead,bullhead,fish,,yes,yes,,,Yes,,,,,,,,,,,yes,"Montana, Washington",no,yes,yes,"Crossman 1991, Mandrak et al 2014, Therriault and Webb 2017, BC Ministry List",Therriault and Webb 2017,"Clancy and Bourret 2020, Bonar et al. 2005"
+Micropterus salmoides ,Largemouth bass,bass,fish,,yes,yes,,USA,Yes,,yes,yes,,,,,,,,yes,"Montana, Idaho, Washington",no,yes,yes,"Crossman 1991, Mandrak et al 2014, Therriault and Webb 2017, BC Ministry List, Keller and Lodge 2007","Therriault and Webb 2017, DFO 2010 BC RA","Clancy and Bourret 2020, Braun and Walser 2011,Christensen and Moore 2010; Hawkins et al. 2020; Marsha et al. 2021, bonar et al. 2005"
+Lepomis gibbosus,Pumpkinseed,sunfish,fish,,yes,yes,,USA,Yes,,,,,,,,,,,yes,"Montana, Washington",no,yes,yes,"Crossman 1991, Therriault and Webb 2017, BC Ministry List","Therriault and Webb 2017, DFO 2010 BC RA","Clancy and Bourret 2020, Bonar et al. 2005"
+Micropterus dolomieu,Smallmouth bass,bass,fish,,yes,yes,,,Yes,,,,,,,,,,,yes,Montana,no,yes,yes,"Crossman 1991, Therriault and Webb 2017, BC Ministry List","Therriault and Webb 2017, DFO 2010 BC RA, DFO Atlantic salmon RA",Clancy and Bourret 2020
+Ameiurus platycephalus ,Flat bullhead,bullhead,fish,,,,,,Yes,,,,,,,,,,,yes,Montana,no,yes,yes,Therriault and Webb 2017,Therriault and Webb 2017,Clancy and Bourret 2020
+Lepomis cyanellus,Green sunfish,sunfish,fish,,,,,,,,,,,,,,,,,yes,Washington,no,yes,yes,,,Bonar et al. 2005
+Procambarus clarkii,Red Swamp crayfish,crayfish,invertebrate,,,yes,,,,,,,yes,,,,,,,yes,Washington,no,yes,yes,"Brown and Therriault, Keller and Lodge 2007",(Mueller 2007; Mueller and Bodensteiner 2009; Larson et al. 2017),
+Sagittaria platyphylla,Delta arrowhead,arrowhead,aquatic plant,,,no,,,,yes,,,,,,,,,,,,no,yes,yes,"DFO SLRA 2014, cohen et al. 2007",,
+Thymallus arcticus,Arctic grayling,grayling,fish,,,,,"Yukon, Alaska, Northwest Terrirtories",,,,,,,,,,,,,,no,yes,yes,Crossman 1991,,
+Gambusia affinis,Mosquitofish,Mosquitofish,fish,,,yes,,,,,,,,,,,yes,,,,,no,yes,yes,"Crossman 1991, Keller and Lodge ",,
+Oncorhynchus clarkii clarkii,Cutthroat Trout,salmonid,fish,,,,,,,,,,,yes,,,,,,,,no,yes,yes,DFO aquaculture liscence,,
+Morone saxatilis ,Striped bass,bass,fish,,,yes,,,,,,yes,,,,,,,,,,no,yes,yes,Mandrak et al 2014,,
+Physella acuta ,European Physa ,mollusc,invertebrate,,,yes,,,,,yes,,,,,,,,,,,no,yes,yes,"Schroeder et al. 2014, Duggan et al. 2018",Schroeder et al. 2014,
+Mytilopsis leucophaeata,dark false mussel,mollusc,invertebrate,,,,,,,,,,,,,,,,,,,no,yes,yes,,"Therriault et al. 2013, DFO Canadawide RA",
+Ictalurus furcatus ,Blue catfish,catfish,fish,,,no,,,,,,,,,,,,,,,,no,yes,yes?,Mandrak et al 2014,,
+Catostomus catostomus,Longnose sucker,sucker,fish,,,,,Alberta,,,,,,,yes,,yes,,,yes,Montana,no,yes?,no,Crossman 1991,,Clancy and Bourret 2020
+Ameiurus brunneus,Snail bullhead,bullhead,fish,,,,,,Yes,,,,,,,,,,,yes,Montana,no,yes?,no,Therriault and Webb 2017,Therriault and Webb 2017,Clancy and Bourret 2020
+Erimyzon sucetta ,Lake chubsucker ,sucker,fish,,,,,,Yes,,,,,,,,,,,,,no,yes?,no,Therriault and Webb 2017,Therriault and Webb 2017,
+Esox americanus ,Redfin pickerel ,pickerel,fish,,,,,,Yes,,,,,,,,,,,,,no,yes?,no,Therriault and Webb 2017,Therriault and Webb 2017,
+Elimia livescens ,Liver Elimia ,mollusc,invertebrate,,,Unknown ,,,,,yes,,,,,,,,,,,no,yes?,no,"Schroeder et al. 2014, DFO SLRA 2014",Schroeder et al. 2014,
+Oncorhynchus nerka,"Kokanee, Sockeye salmon",salmonid,fish,,,,,,,,,,,yes,,,,,,yes,Washington,no,yes?,yes?,"Crossman 1991, DFO aquaculture liscences",,spies et al. 2007
+Oncorhynchus clarki lewisi x Oncorhynchus mykiss,Westslope cutthroat trout x rainbow trout hybrid,salmonid,fish,,,,,,,,,,,,,,,,,,,no,,,Crossman 1991,,
+Salvelinus fontinalis x Salvelinus namaycush,Brook trout x lake trout hybrid ,hybrid,fish,,,,,,,,,,,,,,,,,,,no,,,Crossman 1991,,
+Morone saxatilis x Morone chrysops OR Wiper,Wiper,Bass,fish,,,no,,,,,,yes,,,,,,,,,,no,,,Mandrak et al 2014,,Roy et al. 2018
+Viral hemorrhagic septicemia virus ,Viral hemorrhagic septicemia virus (VHSV),,virus,,,,,,,,,,,yes,,,,,,,,no?,no?,yes?,,,
+Microsorum pteropus ,java fern,Copel. (syn. Colysis pteropus),aquatic plant,,,,,,,yes,,,,,,,,,,,,yes,no,no,"Azan et al. 2015, cohen et al. 2007",Azan et al. 2015,
+Cladophora aegagropila ,"moss ball, marimo",(syn. Aegagropila linnaei),aquatic plant,,,,,,,yes,,,,,,,,,,,,yes,no,no,"Azan et al. 2015, Cohen et al. 2007",Azan et al. 2015,
+Tanichthys albonubes,white cloudmountain minnow,minnow,fish,,,,,,,,yes,,,,,,,,,,,yes,no,no,Gertzen et al. 2007,,
+Cobitis taenia ,Spined loach,loach,fish,,yes,no,,,,,yes,,,,,,,,,,,yes,no,no,Mandrak et al 2014,,
+Danio albolineatus ,Pearl danio,danio,fish,,yes,no,,,,,yes,,,,,,,,,,,yes,no,no,Mandrak et al 2014,,
+Misgurnus fossilis ,weatherfish,weatherfish,fish,,yes,no,,,,,yes,,,,,,,,,,,yes,no,no,Mandrak et al 2014,,
+Biomphalaria alexandrina ,,mollusc,invertebrate,,,Unknown ,,,,,yes,,,,,,,,,,,yes,no,no,"Schroeder et al. 2014, DFO SLRA 2014",,
+Biomphalaria pfeifferi ,,mollusc,invertebrate,,,No ,,,,,yes,,,,,,,,,,,yes,no,no,"Schroeder et al. 2014, DFO SLRA 2014",,
+Bulinus truncatus ,,mollusc,invertebrate,,,Unknown ,,,,,yes,,,,,,,,,,,yes,no,no,"Schroeder et al. 2014, DFO SLRA 2014",,
+Indoplanorbis exustus ,,mollusc,invertebrate,,,No ,,,,,yes,,,,,,,,,,,yes,no,no,"Schroeder et al. 2014, DFO SLRA 2014",Schroeder et al. 2014,
+Lymnaea palustris OR Stagnicola palustris,(=Stagnicola palustris) ,mollusc,invertebrate,,,yes,,,,,yes,,,,,,,,,,,yes,no,no,"Schroeder et al. 2014, DFO SLRA 2014, Duggan et al. 2018",Schroeder et al. 2014,
+Lymnaea natalensis OR Radix natalensis, (=Radix natalensis) ,mollusc,invertebrate,,,yes,,,,,yes,,,,,,,,,,,yes,no,no,"Schroeder et al. 2014, Duggan et al. 2018",Schroeder et al. 2014,
+Egeria najas,Narrow leaf elodea (Planchon),elodea,aquatic plant,,,no,,,,yes,,,,,,,,,,yes,Alaska,yes,no,no?,"DFO SLRA 2014, Azan et al. 2015, cohen et al. 2007",Azan et al. 2015,"(Luizza et al. 2016; Carey et al. 2016; Sethi et al. 2017; Schwoerer et al. 2020b, 2020a)"
+Siniperca chuatsi ,Mandarin fish/Chinese perch,perch,fish,,,,,,,,yes,yes,,,,,,,,,,yes,no,no?,Mandrak et al 2014,,Roy et al. 2018
+Lymnaea peregra ,wandering pond snail,mollusc,invertebrate,,,Unknown ,,,,,yes,,,,,,,,,,,yes,no,no?,"Schroeder et al. 2014, DFO SLRA 2014",Schroeder et al. 2014,
+Pomacea bridgesi ,"Apple Snail, Spiketop Apple Snail, Golden Mystery Snail ",mollusc,invertebrate,,,No ,,,,,yes,,,,,,,,,,,yes,no,no?,"Schroeder et al. 2014, DFO SLRA 2014",Schroeder et al. 2014,
+Sagittaria subulata,Awl-leaf arrowhead,arrowhead,aquatic plant,,,,no,,,yes,,,,,,,,,,,,yes,no,yes,"DFO SLRA 2014, Azan et al. 2015, cohen et al. 2007",Azan et al. 2015,
+Lates calcarifer,Barramundi or Asian sea bass,bass,fish,,,,,,,,,,,yes,,,,,,,,yes,no,yes,DFO aquaculture liscence,,
+Carassius carassius ,Crucian carp,carp,fish,,,no,,,,,,yes,yes,,,,,,,,,yes,no,yes,Mandrak et al 2014,,Roy et al. 2018
+Silurus glanis ,Wels catfish,catfish,fish,,yes,no,,,,,yes,yes,,,,,,,,,,yes,no,yes,Mandrak et al 2014,,Roy et al. 2018
+Perccottus glenii,Amur sleeper,,fish,,,,,,,,,yes,,,,,,,,,,yes,no,yes,Roy et al. 2018,,Roy et al. 2018
+Lampetra fluviatilis ,european River lamprey ,lamprey,fish,,,,,,Yes,,,,,,,,,,,,,yes,no,yes,Therriault and Webb 2017,Therriault and Webb 2017,
+Rutilus rutilus ,Roach ,Roach,fish,,,,,,No,,,,,,,,,,,,,yes,no,yes,Therriault and Webb 2017,Therriault and Webb 2017,
+Biomphalaria straminea ,,mollusc,invertebrate,,,No ,,,,,yes,,,,,,,,,,,yes,no,yes,"Schroeder et al. 2014, DFO SLRA 2014",,
+Myosotis scorpioides,European forget-me-not,not,aquatic plant,yes,yes,yes,no,,,yes,,,,,,,,,,,,yes,yes,no,"BC Ministry List, Keller and Lodge 2007",,
+Channa maculata,Blotched snakehead,snakehead,fish,yes,,,,,,,,yes,,,,,,,,,,yes,yes,no,BC Ministry List,,Roy et al. 2018
+Bithynia tentaculata ,Faucet Snail ,mollusc,invertebrate,,,yes,,,,,yes,,,,,,,,,yes,Montana,yes,yes,no,Schroeder et al. 2014,Harman 2000; Haynes et al. 2005,Sanland and Pierce 2021
+Radix auricularia ,"European Ear Snail, Big-eared Radix ",mollusc,invertebrate,,,yes,,,,,,,,,,,,,,yes,Washington,yes,yes,no,Schroeder et al. 2014,Harman 2000; Haynes et al. 2005,Larson et al. 2018
+Palaemon modestus,Siberian prawn,shrimp,invertebrate,,,,,,,,,,,,,,,,,yes,Washington,yes,yes,no,,,Erhardt and Tiffan 2016
+Bosmina coregoni,water flea,cladocera,zooplankton,,,,,,,,,,,,,,,,,yes,Washington,yes,yes,no,,Lee et al. 2016,
+Harpacticella paradoxa,,copepoda,zooplankton,,,,,,,,,,,,,,,,,yes,Washington,yes,yes,no,,,Cordell et al. 2007
+Pseudodiaptomus forbesi,,copepoda,zooplankton,,,,,,,,,,,,,,,,,yes,Washington,yes,yes,no,,,"Dexter et al. 2020, Lee et al. 2016, Cordell et al. 2008"
+Pseudodiaptomus inopinus,,copepoda,zooplankton,,,,,,,,,,,,,,,,,yes,Washington,yes,yes,no,,,Cordell et al. 2008
+Sinocalanus doerrii,asian calanoid copepod,copepoda,zooplankton,,,,,,,,,,,,,,,,,yes,Washington,yes,yes,no,,,Cordell et al. 2008
+Hygrophila difformis ,water wisteria,(Blume) (syn. Synnema triflorum),aquatic plant,,,,,,,yes,,,,,,,,,,,,yes,yes,no,"Azan et al. 2015, Cohen et al. 2007",Azan et al. 2015,
+Dreissena bugensis ,Quagga Mussel ,mollusc,invertebrate,,,yes,,,,,,,,,,yes,,,,,,yes,yes,no,Schroeder et al. 2014,"Therriault et al. 2013, DFO Canadawide RA",
+Pomacea insularum,Island Apple Snail ,mollusc,invertebrate,,,No ,,,,,yes,,,,,,,,,,,yes,yes,no,"Schroeder et al. 2014, DFO SLRA 2014",Schroeder et al. 2014,
+Myriophyllum aquaticum,Parrot's feather,feather,aquatic plant,yes,,yes,no,,,yes,yes,,,,,,,,,yes,Washington,yes,yes,yes,"BC Ministry List, Keller and Lodge 2007",,"Kuehne et al. 2016, 2018"
+Myriophyllum spicatum,Eurasian water-milfoil (spiked),milfoil,aquatic plant,yes,,yes,no,,,yes,yes,,,,,yes,,,,yes,"Idaho, Washington",yes,yes,yes,"BC Ministry List, Keller and Lodge 2007",,"(Moody and Les 2007; Madsen et al. 2015; Liao et al. 2016, Wagner and Falter 2002, Parsons et al. 2009; Tamayo and Olden 2014; Olden and Tamayo 2014)"
+Potamogeton crispus,Curled pondweed (curlyleaf),curlyleaf),aquatic plant,yes,,yes,no,,,yes,,,,,,,,,,yes,Washington,yes,yes,yes,"BC Ministry List, Keller and Lodge 2007",,(Tamayo and Olden 2014)
+Egeria densa,Brazilian waterweed,waterweed,aquatic plant,yes,,yes,no,,,yes,yes,,,,,,,,,yes,Washington,yes,yes,yes,"BC Ministry List, Keller and Lodge 2007, Cohen et al. 2007",,(Parsons et al. 2009; Tamayo and Olden 2014)
+Potamopyrgus antipodarum ,New Zealand Mudsnail ,mollusc,invertebrate,yes,,yes,no,,,,,,,,,,,,,yes,"Idaho, Washington",yes,yes,yes,"Schroeder et al. 2014, BC Ministry List","Therriault et al. 2011, DFO Canadawide RA",(Richards et al. 2001; Kistner and Dybdahl 2014) (Paolucci and Thuesen 2020)
+Corbicula fluminea ,Asian Clam ,mollusc,invertebrate,yes,,yes,no,,,yes,,,,,,,,,,yes,Washington,yes,yes,yes,"Schroeder et al. 2014, Keller 2007, BC Ministry List; Keller and Lodge 2007",,"Ricciardi 1998; Magara et al. 2001; Cataldo et al. 2012, Dexter et al. 2020, Holbrook et al. 2020, Phelps 1994"
+Ceratophyllum demersum,Common hornwort (coontail),hornwort,aquatic plant,yes,,,yes,,,yes,,,,,,,,,,,,yes,yes,yes,"BC Ministry List, Cohen et al. 2007",,
+Glyceria maxima,Giant mannagrass,mannagrass,aquatic plant,yes,,yes,no,,,yes,,,,,,,,,,,,yes,yes,yes,"BC Ministry List, Keller and Lodge 2007",,
+Nymphoides peltata,Yellow floating heart,heart,aquatic plant,yes,,yes,no,,,yes,yes,,,,,,,,,,,yes,yes,yes,"BC Ministry List, Keller and Lodge 2007",,
+Astronotus ocellatus,Oscar,cichlid,fish,yes,,,,,,,,,,,,,,,,,,yes,yes,yes,BC Ministry List,,
+Piaractus brachypomus,Red-bellied pacu,pacu,fish,yes,,,,,,,,,,,,,,,,,,yes,yes,yes,BC Ministry List,,
+Tinca tinca,Tench,Tench,fish,yes,,,no,USA,,,,,,,,,,,,,,yes,yes,yes,"Crossman 1991, BC Ministry List",,
+Craspedacusta sowerbyi,Freshwater jellyfish,hydrozoan,invertebrate,yes,,,no,,,,yes,,,,,,,,,,,yes,yes,yes,"BC Ministry List, Duggan et al. 2018",,
+Salmo trutta,Brown trout,salmonid,fish,,yes,yes,,,,,,,,,,,,,,yes,Montana,yes,yes,yes,"Crossman 1991, BC Ministry List",,Clancy and Bourret 2020
+Cyprinus carpio ,"Common carp, koi",carp,fish,,yes,yes,,,Yes,,yes,yes,,yes,,,,,,yes,Washington,yes,yes,yes,"Crossman 1991, Mandrak et al 2014, DFO aquaculture liscence, Therriault and Webb 2017, BC Ministry List",Therriault and Webb 2017,Feeken et al. 2019
+Misgurnus anguillicaudatus ,Pond loach/ Oriental weatherfish,weatherfish,fish,,yes,yes,,,,,yes,yes,,,,,,,,yes,"Idaho, Washington",yes,yes,yes,"Mandrak et al 2014, BC Ministry List, Keller and Lodge 2007",,"Urquhart and Koetsier 2014, Tabor et al. 2001, Roy et al. 2018"
+Ctenopharyngodon idella ,Grass carp,carp,fish,,,no,,,Yes,,,yes,,,,,,,,yes,Idaho,yes,yes,yes,"Mandrak et al 2014, Therriault and Webb 2017","Therriault and Webb 2017, DFO Canadawide RA","Erickson et al. 2017, Roy et al. 2018"
+Carassius gibelio,Prussian carp,carp,fish,,,,,,,,,,,,,,,,,yes,Alberta,yes,yes,yes,,,Ruppert et al. 2017
+Myxobolus cerebralis ,Whirling disease parasite,cndaria,parasite,,,,,,,,,,,,,,,,,yes,"Montana, Alaska",yes,yes,yes,,,"Carim et al. 2015; Murcia et al. 2015, Gates et al. 2009, (Arsan and Bartholomew 2008)"
+Xiphophorus hellerii,Green swordtail,swordtail,fish,,,,,,,,,,,,,,,,,,,yes,yes,yes,Crossman 1991,,
+Carassius auratus ,Goldfish,Goldfish,fish,,yes,yes,,,,yes,yes,yes,,,,,,,,,,yes,yes,yes,"Crossman 1991, Mandrak et al 2014, Gartner et al. 2011, BC Ministry List, Keller and Lodge 2007, Gertzen et al. 2007",,
+Oreochromis niloticus,Nile Tilapia,tilapia,fish,,,,,,,,,,,yes,,,,,,,,yes,yes,yes,DFO aquaculture liscence,,
+Leuciscus idus ,ide,ide,fish,,yes,no,,,,,yes,yes,,,,,,,,,,yes,yes,yes,Mandrak et al 2014,,Roy et al. 2018
+Hypophthalmichthys molitrix ,Silver carp ,carp,fish,,,,,,Yes,,,,,,,,,,,,,yes,yes,yes,Therriault and Webb 2017,"Therriault and Webb 2017, DFO Canadawide RA",Roy et al. 2018
+Mylopharyngodon piceus,Black carp,carp,fish,,,,,,Yes,,,yes,,,,,,,,,,yes,yes,yes,Therriault and Webb 2017,"Therriault and Webb 2017, DFO Canadawide RA",Roy et al. 2018
+Oreochromis aureus ,Blue tilapia ,tilapia,fish,,,,,,No,,,,,yes,,,,,,,,yes,yes,yes,Therriault and Webb 2017,Therriault and Webb 2017,
+Hypophthalmichthys nobilis ,Bighead carp ,carp,fish,,,,,,Yes,,,yes,,,,,,,,,,yes,yes,yes,"Therriault and Webb 2017, Keller and Lodge 2007","Therriault and Webb 2017, DFO Canadawide RA",Roy et al. 2018
+Sphaerium corneum,European Fingernail Clam ,mollusc,invertebrate,,,yes,,,,,,,,,,,,,,,,yes,yes,yes,Schroeder et al. 2014,Schroeder et al. 2014,Mackie 1976; Mackie 2000
+Dreissena polymorpha ,Zebra Mussel ,mollusc,invertebrate,,,yes,,,,,,,,,,yes,,,,,,yes,yes,yes,Schroeder et al. 2014,"Therriault et al. 2013, DFO Canadawide RA",
+Valvata piscinalis ,European Stream Valvata ,mollusc,invertebrate,,,yes,,,,,,,,,,,,,,,,yes,yes,yes,Schroeder et al. 2014,Harman 2000; Haynes et al. 2005,
+Pomacea canaliculata ,Golden/Channelled Apple Snail ,mollusc,invertebrate,,,No ,,,,,yes,,,,,,,,,,,yes,yes,yes,"Schroeder et al. 2014, DFO SLRA 2014",Schroeder et al. 2014,
+Melanoides tuberculata ,"Malaysian Trumpet Snail, Red-rimmed Melania ",mollusc,invertebrate,,,No ,,,,,yes,,,,,,,,,,,yes,yes,yes,"Schroeder et al. 2014, DFO SLRA 2014, Duggan et al. 2018",Schroeder et al. 2014,
+Hemimysis anomala,Bloody red shrimp,shrimp,invertebrate,,,,,,,,,,,,,,,,,,,yes,yes,yes,,DFO Canadawide RA,
+Bellamya chinensis,Chinese Mysterysnail ,mollusc,invertebrate,yes,,yes,no,,,,,,,,,,,,,yes,Washington,yes,yes,yes?,"Schroeder et al. 2014, BC Ministry List",,(Olden et al. 2009)
+Limnoithona tetraspina,,copepoda,zooplankton,,,,,,,,,,,,,,,,,yes,Washington,yes,yes,yes?,,,Cordell et al. 2008
+Tarebia granifera,Quilted Melania ,mollusc,invertebrate,,,No ,,,,,yes,,,,,,,,,,,yes,yes,yes?,"Schroeder et al. 2014, DFO SLRA 2014",,
+Biomphalaria glabrata ,Bloodfluke Planorb ,mollusc,invertebrate,,,Unknown ,,,,,yes,,,,,,,,,,,yes,yes?,no,"Schroeder et al. 2014, DFO SLRA 2014",,
+Pomacea haustrum ,Titan Apple Snail ,mollusc,invertebrate,,,No ,,,,,yes,,,,,,,,,,,yes,yes?,no,"Schroeder et al. 2014, DFO SLRA 2014",Schroeder et al. 2014,
+Vallisneria sp.,Tapegrass,Tapegrass,aquatic plant,yes,,,no,,,,,,,,,,,,,,,,,,"BC Ministry List, Azan et al. 2015",Azan et al. 2015,
+Hemichromis sp.,Jewel cichlid,cichlid,fish,yes,,,,,,,,,,,,,,,,,,,,,BC Ministry List,,
+Hygrophila sp. ,,,aquatic plant,,,,,,,yes,,,,,,,,,,,,,,,"Azan et al. 2015, cohen et al. 2007",Azan et al. 2015,
+Petromyzontidae spp.,lamprey,lamprey,fish,,,,,"Washington, California",,,,,,,,,,,,,,,,,Crossman 1991,,
+Salvelinus namaycush x Salvelinus malma or Salvelinus confluentus,Lake trout x dolly varden or bull trout,salmonid,fish,,,,,,,,,,,,,,,,,,,,,,Crossman 1991,,

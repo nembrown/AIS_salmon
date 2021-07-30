@@ -1,0 +1,718 @@
+"","Species.name","common.name","taxa_smaller","taxa_big","present.in.BC","established.in.BC","established.in.Canada","native.to.part.of.BC","source.region.to.BC","hitlist..according.to.Therriault.and.Webb.","ornamental.nursery.trade","aquarium.pet..trade","live.food.market","biological.supply","aquaculture","fish.stocking","recreational.boating","bait.industry","shipping.and.ballast","canals.and.diversions","adjacent.region","if.adjacent..where","Listed.in.publications","Risk.assessment.pubs","impact.other.pubs","notes","notes.2","X","X.1","X.2","wos"
+"1","Pseudacris regilla","Chorus frog","frog","amphibian","yes","","","yes","","","","","","","","","","",NA,NA,"","","BC Ministry List","","","","","",NA,"",38
+"2","Rana aurora","Red-legged frog","frog","amphibian","yes","","","yes","","","","","","","","","","",NA,NA,"","","BC Ministry List","","","","","",NA,"",48
+"5","Xenopus laevis","African clawed frog","frog","amphibian","","","","","","","","yes","yes","yes","","","","",NA,NA,"","","Keller and Lodge 2007","","","","","",NA,"",623
+"6","Acorus gramineus","Grassy-leaved sweet flag (Japanese sweetflag) ","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",1
+"7","Acorus","sweet flag","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",18
+"8","Acorus variegatus","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",0
+"9","Aeschynomene fluitans","Giant water sensitive plant","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"10","Agapanthus ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",2
+"11","Alternanthera ficoides ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",0
+"12","Alternanthera reineckii ","Red Scarlet Temple","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, Cohen et al. 2007","Azan et al. 2015","","Moderately High","","",NA,"",0
+"13","Alternanthera ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",299
+"14","Ammania senegalensis OR Ammannia auriculata","copper leaf ammania","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",1
+"15","Ammania","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"16","Anemopsis californica","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",1
+"17","Anubias afzelii ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"18","Anubias barteri","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"19","Anubias barteri var. barteri","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, Cohen et al. 2007","Azan et al. 2015","","Moderately High","","",NA,"",0
+"20","Anubias barteri var. caladifolia","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",0
+"21","Anubias barteri var. glabra OR Anubias lanceolata OR Anubias minima","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"22","Anubias barteri var. nana","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",0
+"23","Anubias congensis OR Anubias heterophylla","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"24","Anubias gigantean ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"25","Anubias gracilis","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"26","Anubias hastifolia","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"27","Anubias nana ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",0
+"28","Anubias","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",1
+"29","Aponogeton boivinianus","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"30","Aponogeton capuronii","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"31","Aponogeton crispus OR Aponogeton elongatus","Ruffled Sword Plant","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, Cohen et al. 2007","Azan et al. 2015","","Moderately Low","","",NA,"",6
+"32","Aponogeton distachyos","water hawthorn","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Keller and Lodge 2007","","","","","",NA,"",0
+"33","Aponogeton longiplumulosus","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"34","Aponogeton madagascariensis","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, Cohen et al. 2007","Azan et al. 2015","","Moderately Low","","",NA,"",1
+"35","Aponogeton natans","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"36","Aponogeton rigidifolius","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"37","Aponogeton ulvaceus Baker","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, Cohen et al. 2007","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"38","Aponogeton undulates","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"39","Azolla caroliniana","Eastern mosquito fern","fern","aquatic plant","yes","","","no","","","","","","","","","","",NA,NA,"","","BC Ministry List","","","","","",NA,"",6
+"40","Azolla filiculoides","Large mosquito fern","fern","aquatic plant","yes","","","no","","","","","","","","","","",NA,NA,"","","BC Ministry List","","","","","",NA,"",86
+"41","Bacopa australis","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",1
+"42","Bacopa caroliniana OR Bacopa amplexicaulis","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, Cohen et al. 2007","Azan et al. 2015","","Moderately Low","","",NA,"",11
+"43","Bacopa monnieri ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",9
+"44","Bacopa myriophylloides OR Herpestis myriophylloides","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"45","Bacopa rotundifolia","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"46","Barclaya longifolia OR Hydrostemma longifolium","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",3
+"47","Barclaya","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",1
+"48","Bletilla striata","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",4
+"49","Blyxa aubertii","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"50","Blyxa japonica","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, Cohen et al. 2007","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"51","Bolbitis heteroclita","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"52","Bolbitis heudelotii ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"53","Butomus umbellatus","Flowering-rush","rush","aquatic plant","yes","","","no","","","","","","","","","","",NA,NA,"","","BC Ministry List","","","","","",NA,"",31
+"54","Cabomba aquatic","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, Cohen et al. 2007","Azan et al. 2015","","Moderately Low","","",NA,"",41
+"55","Cabomba caroliniana","","","aquatic plant","","","yes","","","","yes","","","","","","","",NA,NA,"","","Keller and Lodge 2007, Cohen et al. 2007 ","","","","","",NA,"",39
+"56","Cabomba palaeformis","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",1
+"57","Cabomba piauhyensis OR Cabomba furcata","Red Cabomba Plant","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",6
+"58","Caladium ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",3
+"59","Callitriche stagnalis","Pond water-starwort","starwort","aquatic plant","yes","","","no","","","","","","","","","","",NA,NA,"","","BC Ministry List","","","","","",NA,"",4
+"60","Caltha","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",3
+"61","Cardamine lyrata","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"62","Carex albula","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"63","Carex buchananii","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"64","Carex glauca OR Carex flacca","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",36
+"66","Ceratopteris siliquosa ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",0
+"67","Ceratopteris thalictroides","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",3
+"68","Cladophora aegagropila OR Aegagropila linnaei","moss ball ","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, Cohen et al. 2007","Azan et al. 2015","","Moderately High","","",NA,"",25
+"69","Colocasia esculenta","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",61
+"70","Colocasia","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",62
+"71","Cordyline","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",13
+"72","Crinium thaianum ","","","aquatic plant","","","","","","","","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",0
+"73","Crinum calamistratum","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",0
+"74","Crinum natans Baker","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",0
+"75","Crinum","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",7
+"76","Crinum thaianum","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"77","Cryptocoryne affinis","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"78","Cryptocoryne albida","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"79","Cryptocoryne beckettii OR Cryptocoryne petchii","Beckett's water trumpet","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",0
+"80","Cryptocoryne ciliate ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"81","Cryptocoryne cordata OR Cryptocoryne blassii","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",5
+"82","Cryptocoryne crispatula OR Cryptocoryne balansae OR Cryptocoryne tonkinensis","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, Cohen et al. 2007","Azan et al. 2015","","Moderately Low","","",NA,"",2
+"83","Cryptocoryne griffithii","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"84","Cryptocoryne lingua","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"85","Cryptocoryne parva","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",0
+"86","Cryptocoryne pontederiifolia","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"87","Cryptocoryne pygmaea","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"88","Cryptocoryne retrospiralis","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"89","Cryptocoryne","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, Cohen et al. 2007","Azan et al. 2015","","Moderately High","","",NA,"",3
+"90","Cryptocoryne spiralis","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"91","Cryptocoryne undulata OR Cryptocoryne willisii","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",1
+"92","Cryptocoryne wendtii","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",0
+"93","Cyperus alternifolius","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",8
+"94","Cyperus helferi Boeckeler","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"95","Cyperus longus","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",1
+"96","Cyperus papyrus","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","High","","",NA,"",15
+"97","Cyperus","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","High","","",NA,"",184
+"98","Didiplis diandra","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"99","Dieffenbachia exotica variegatus","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",0
+"100","Dracaena deremensis","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",0
+"101","Dracaena fragrans","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",1
+"102","Dracaena sanderiana","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, Cohen et al. 2007","Azan et al. 2015","","Moderately Low","","",NA,"",4
+"103","Dracaena","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",28
+"104","Echinodorus amizonicus","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",0
+"105","Echinodorus argentinensis","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"106","Echinodorus bleheri OR Echinodorus paniculatus","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, Cohen et al. 2007","Azan et al. 2015","","Moderately High","","",NA,"",0
+"107","Echinodorus bolivianus OR Echinodorus latifolius OR Echinodorus angustifolius OR Echinodorus quadricostatus","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",2
+"108","Echinodorus cordifolius","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",1
+"109","Echinodorus gabrielli","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"110","Echinodorus grandiflorus OR Echinodorus muricatus","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",43
+"111","Echinodorus grisebachii","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"112","Echinodorus martii OR Echinodorus major","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",5
+"113","Echinodorus palaefolius","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"114","Echinodorus quadricostatus ","","","aquatic plant","","","","","","","","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",0
+"115","Echinodorus schulteri ","","","aquatic plant","","","","","","","","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",0
+"116","Echinodorus","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, Cohen et al. 2007","Azan et al. 2015","","Moderately High","","",NA,"",3
+"117","Echinodorus tenellus OR Helanthium tenellum","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",8
+"118","Echinodorus uruguayensis OR Echinodorus osiris OR Echinodorus barthii","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",5
+"121","Eichhornia azurea ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",9
+"122","Eichhornia diversifolia","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"123","Eichornia cassipes","water hyacynth","","aquatic plant","","","yes","","","","yes","yes","","","","","","",NA,NA,"","","Keller and Lodge 2007","","","","","",NA,"",0
+"124","Eleocharis montevidensis","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",0
+"125","Eleocharis vivipara","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"126","Eriocaulon cinereum","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"127","Glossostigma elatinoides","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"128","Glyceria declinata","Waxy mannagrass","mannagrass","aquatic plant","yes","","","no","","","","","","","","","","",NA,NA,"","","BC Ministry List","","","","","",NA,"",1
+"129","Glyceria fluitans","Floating sweet-grass","grass","aquatic plant","yes","","","no","","","","","","","","","","",NA,NA,"","","BC Ministry List","","","","","",NA,"",1
+"131","Glyceria","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",29
+"132","Gymnocoronis spilanthoides","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",8
+"133","Hemianthus callitrichoides OR Micranthemum umbrosum","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",1
+"134","Hemianthus micranthemoides OR Micranthemum micranthemoides","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",0
+"135","Hemianthus","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"136","Hemigraphis exotica","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"137","Hemigraphis repanda OR Ruellia repanda","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",1
+"138","Hesperantha coccinea ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"139","Heteranthera zosterifolia","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",1
+"140","Hibiscus acetosella","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",1
+"141","Hibiscus coccineus","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"142","Hottonia palustris ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",2
+"143","Houttunyia cordata","chameleon plant","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Keller and Lodge 2007","","","","","",NA,"",0
+"144","Houttuynia","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",11
+"145","Hydrocharis morsus-ranae","european frog-bit","","aquatic plant","","","yes","","","","yes","","","","","","","",NA,NA,"","","Keller and Lodge 2007","","","","","",NA,"",18
+"146","Hydrocotyle leucocephala","","","aquatic plant","","","","","","","","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",0
+"147","Hydrocotyle sibthorpioides OR Hydrocotyle maritima OR Hydrocotyle rotundifolia","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",30
+"148","Hydrocotyle","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",56
+"149","Hydrotriche hottoniiflora ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"150","Hygrophila angustifolia OR Hygrophila salicifolia","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, cohen et al. 2007","Azan et al. 2015","","Moderately High","","",NA,"",2
+"151","Hygrophila balsamica","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","High","","",NA,"",0
+"152","Hygrophila corymbosa","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","High","","",NA,"",1
+"153","Hygrophila difformis OR Synnema triflorum","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, Cohen et al. 2007","Azan et al. 2015","","High","","",NA,"",9
+"154","Hygrophila polysperma ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",10
+"155","Hygrophila rosanervis","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",0
+"156","Hygrophila salicifolia","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",0
+"158","Hygrophila stricta OR Nomaphylla stricta","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",4
+"159","Hymenocallis liriosome","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"160","Hymenocallis","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",2
+"161","Iris kaempferi","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"163","Iris","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",1570
+"164","Isolepis cernua OR Scirpus cernuus","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",5
+"165","Juncus brevicaudatus","Short-tailed rush","rush","aquatic plant","yes","","","no","","","","","","","","","","",NA,NA,"","","BC Ministry List","","","","","",NA,"",0
+"166","Juncus bulbosus","Bulbous rush","rush","aquatic plant","yes","","","no","","","","","","","","","","",NA,NA,"","","BC Ministry List","","","","","",NA,"",9
+"167","Juncus repens","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",6
+"168","Juncus","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",158
+"169","Jussiaea diffusa","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",1
+"170","Lagarosiphon madagascarensis","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"171","Lagarosyphon major","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",0
+"172","Lilaeopsis brasiliensis","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"173","Lilaeopsis carolinensis","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"174","Lilaeopsis mauritiana","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"175","Lilaeopsis novae-zelandiae","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, Cohen et al. 2007","Azan et al. 2015","","Moderately High","","",NA,"",0
+"176","Limnophila aquatica","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, Cohen et al. 2007","Azan et al. 2015","","Moderately High","","",NA,"",0
+"177","Limnophila aromatica","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"178","Limnophila hippuroides","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"179","Limnophila indica","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",0
+"180","Limnophila sessiflora ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",0
+"181","Lindernia rotundiflora OR Linderna microcalyx","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"182","Lobelia sessilifolia ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",1
+"183","Lobelia","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",25
+"184","Ludwigia arcuate","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",0
+"185","Ludwigia brevipes","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"186","Ludwigia glandulosa","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"187","Ludwigia inclinata","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"188","Ludwigia palustris ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",6
+"189","Ludwigia repens","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",5
+"190","Ludwigia sedioides","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"191","Ludwigia","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",120
+"192","Lycoris radiata","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",4
+"193","Lysimachia nummularia","moneywort","","aquatic plant","","","yes","","","","yes","","","","","","","",NA,NA,"","","Keller and Lodge 2007","","","","","",NA,"",5
+"194","Lysimachia","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",22
+"195","Marsilea angustifolia","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"196","Marsilea crenata OR Marsilea crenulata","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",14
+"197","Marsilea hirsuta","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",2
+"198","Marsilea mutica","water fern","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Keller and Lodge 2007","","","","","",NA,"",1
+"199","Marsilea quadrifolia","water shamrock","","aquatic plant","","","yes","","","","yes","","","","","","","",NA,NA,"","","Keller and Lodge 2007","","","","","",NA,"",5
+"200","Marsilea schelpeana","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"201","Mayaca fluviatilis","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, Cohen et al. 2007","Azan et al. 2015","","Moderately High","","",NA,"",2
+"202","Mentha aquatic","water mint","","aquatic plant","","","yes","","","","yes","","","","","","","",NA,NA,"","","Keller and Lodge 2007","","","","","",NA,"",7
+"203","Microcarpaea minima","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"204","Micromeria brownei OR Clinopodium brownei","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",1
+"205","Microsorum pteropus OR Colysis pteropus","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, cohen et al. 2007","Azan et al. 2015","","High","","",NA,"",15
+"206","Microsorum","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",2
+"207","Mimulus luteus","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",8
+"208","Musa","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",240
+"209","Mynphaea","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",0
+"211","Myosotis","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",20
+"214","Myriophyllum mattogrossensis","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, Cohen et al. 2007","Azan et al. 2015","","Low","","",NA,"",0
+"215","Myriophyllum propinquum","Common water milfoil","milfoil","aquatic plant","","","","no","","","yes","","","","","","","",NA,NA,"","","DFO SLRA 2014","","","","","",NA,"",2
+"216","Myriophyllum ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",419
+"218","Myriophyllum tuberculatum","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"219","Myriophyllum verrucosum","Red-water milfoil","milfoil","aquatic plant","","","","no","","","yes","","","","","","","",NA,NA,"","","DFO SLRA 2014","","","","","",NA,"",0
+"220","Najas graminea","Ricefield waternymph","waternymph","aquatic plant","","","no","","","","yes","","","","","","","",NA,NA,"","","DFO SLRA 2014","","","","","",NA,"",1
+"221","Najas indica","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"222","Najas minor","less naiad","","aquatic plant","","","yes","","","","","yes","","","","","","",NA,NA,"","","Keller and Lodge 2007","","","","","",NA,"",14
+"223","Nasturtium x sterile","Sterile watercress hybrid","hybrid","aquatic plant","","","yes","","","","yes","","","","","","","",NA,NA,"","","DFO SLRA 2014","","","","","",NA,"",0
+"224","Nelumbo","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",49
+"225","Nesaea crassicaulis ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"226","Nesaea pedicellata Hiern","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",0
+"227","Nesaea","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"228","Nomaphila coryambosa","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",0
+"229","Nuphar stellata","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"230","Nymphaea alba","European white waterlily","waterlily","aquatic plant","","","yes","","","","yes","","","","","","","",NA,NA,"","","DFO SLRA 2014","","","","","",NA,"",7
+"231","Nymphaea lotus","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",4
+"233","Nymphaea micrantha","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"234","Nymphaea nouchali","Blue lotus","lotus","aquatic plant","","","no","","","","yes","","","","","","","",NA,NA,"","","DFO SLRA 2014","","Mordecai et al. 2021","","","",NA,"",1
+"235","Nymphaea odorata","Fragrant waterlily","waterlily","aquatic plant","yes","","","no","","","","","","","","","","",NA,NA,"","","BC Ministry List","","","","","",NA,"",7
+"236","Nymphaea pygmaea","Water lily","lily","aquatic plant","","","no","","","","yes","","","","","","","",NA,NA,"","","DFO SLRA 2014","","","","","",NA,"",0
+"237","Nymphaea","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",38
+"238","Nymphaea stellata OR Nymphaea nouchali","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",33
+"239","Nymphaea zenkeri","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"240","Nymphoides aquatic ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",22
+"241","Nymphoides hydrocharioides OR Nymphoides aurantiaca","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"243","Oenanthe aquatica","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",5
+"244","Oenanthe","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",17
+"245","Ophioporgon japonicus","Mondo grass","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Keller and Lodge 2007, Cohen et al. 2007","","","","","",NA,"",0
+"246","Orontium aquaticum","Golden-club","club","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","DFO SLRA 2014","","","","","",NA,"",0
+"247","Phragmites","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",1109
+"248","Pilea cadierei","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"249","Pistia stratiotes","water lettuce","","aquatic plant","","","yes","","","","yes","yes","","","","","","",NA,NA,"","","Keller and Lodge 2007","","","","","",NA,"",110
+"250","Pogostemon helferi OR Dysophylla helferi OR Eusteralis helferi","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"251","Pogostemon stellatus OR Dysophylla stellata OR Eusteralis stellata","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",8
+"252","Pontederia sp. ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",4
+"254","Potamogeton malaianus OR Potamogeton nodosus","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",82
+"255","Potamogeton octandrus","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"256","Potamogeton schweinfurthii","Pondweed","Pondweed","aquatic plant","","","no","","","","yes","","","","","","","",NA,NA,"","","DFO SLRA 2014","","","","","",NA,"",1
+"257","Primula japonica","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"258","Primula","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",35
+"259","Proserpinaca palustris","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"260","Ranunculus lingua","greater spearwort","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, Keller and Lodge 2007","Azan et al. 2015","","Moderately High","","",NA,"",0
+"261","Ranunculus papulentus","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"262","Rorippa nasturtium-aquaticum","Common water cress","cress","aquatic plant","yes","","","no","","","","","","","","","","",NA,NA,"","","BC Ministry List","","","","","",NA,"",2
+"263","Rotala indica ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",1
+"264","Rotala macranda","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, Cohen et al. 2007","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"265","Rotala","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",7
+"266","Rotala wallichii","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, Cohen et al. 2007","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"267","Ruellia","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",33
+"268","Sagittaria aginashi","","","aquatic plant","","","no","","","","yes","","","","","","","",NA,NA,"","","DFO SLRA 2014","","","","","",NA,"",0
+"269","Sagittaria guayanesis","Arrowhead lily","lily","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","DFO SLRA 2014","","","","","",NA,"",0
+"270","Sagittaria natans","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",1
+"272","Sagittaria","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",54
+"274","Salvinia auriculata","eared watermoss","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Keller and Lodge 2007","","","","","",NA,"",2
+"275","Salvinia oblongifolia","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",1
+"276","Scirpus","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",135
+"277","Sisyrinchium californicum ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"278","Spathiphyllum","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","High","","",NA,"",4
+"279","Spathiphyllum wallisii OR Stenospermatium popatenense var. wallisii","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",59
+"280","Syngonium","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",3
+"281","Taxiphyllum barbieri","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","High","","",NA,"",0
+"282","Taxiphyllum","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",2
+"283","Teucrium scordium","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","High","","",NA,"",0
+"284","Thalia dealbata","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",4
+"285","Thalia geniculata","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",2
+"286","Tonina fluviatilis OR Hyphydra amplexicaulis OR Tonina fluviatilis f. parvifolia","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",6
+"287","Tonina","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"288","Trapa bicornis","Horn nut","nut","aquatic plant","","","no","","","","yes","","","","","","","",NA,NA,"","","DFO SLRA 2014","","","","","",NA,"",0
+"289","Trapa natans","water chestnut","","aquatic plant","","","yes","","","","","yes","","","","","","",NA,NA,"","","Keller and Lodge 2007","","","","","",NA,"",47
+"290","Tulbaghia","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",1
+"291","Tulbaghia violacea","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",1
+"292","typha angustifolia","narrow-leaved cattail","","aquatic plant","","","yes","","","","yes","","","","","","","",NA,NA,"","","Keller and Lodge 2007","","","","","",NA,"montana",114
+"293","Typha minima","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","High","","",NA,"",8
+"294","Typha","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",382
+"295","Utricularia graminifolia","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"297","Vallisneria asiatica ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",1
+"298","Vallisneria gigantea","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",2
+"299","Vallisneria rubra OR Maidenia rubra","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately High","","",NA,"",1
+"301","Vallisneria spiralis ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",26
+"302","Vallisneria torta ","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Cohen et al. 2007","","","","","",NA,"",0
+"303","Veronica anagallis-aquatica","Blue water speedwell","speedwell","aquatic plant","yes","","","no","","","","","","","","","","",NA,NA,"","","BC Ministry List","","","","","",NA,"",2
+"304","Vesicularia dubyana","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015, Cohen et al. 2007","Azan et al. 2015","","Moderately High","","",NA,"",0
+"305","Vesicularia montagnei","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",0
+"306","Wolffia brasiliensis","Brazilian watermeal","watermeal","aquatic plant","","","yes","","","","yes","","","","","","","",NA,NA,"","","DFO SLRA 2014","","","","","",NA,"",0
+"307","Zephyranthes candida","","","aquatic plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Moderately Low","","",NA,"",0
+"308","Zizania aquatica","Wild rice","rice","aquatic plant","yes","","","no","","","","","","","","","","",NA,NA,"","","BC Ministry List","","","","","",NA,"",4
+"309","Zostera japonica","Japanese eel-grass","grass","aquatic plant","yes","","","no","","","","","","","","","","",NA,NA,"","","BC Ministry List","","","","","",NA,"",50
+"310","Abramites hypselonotus ","","","fish","","","","","","","","","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"311","Acanthocobitis botia ","","","fish","","","","","","","","","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"312","Acantopsis choirorhynchos ","","","fish","","","","","","","","","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"313","Acarichthys heckelii ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",1
+"314","Acestrorhynchus falcatus","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"316","Aequidens latifrons ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"317","Aequidens pulcher ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"318","Aequidens rivulatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"319","Alcolapia alcalicus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"320","Alestopetersius caudalis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"321","Alestopetersius smykalai ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"324","Altolamprologus calvus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"325","Altolamprologus compressiceps ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"326","Amatitlania nigrofasciata ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",12
+"327","Amblyeleotris gymnocephala ","","","fish","","","","","","","","","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"331","Ameriurus brunneus","Snail bullhead","bullhead","fish","","","","","","Yes","","","","","","","","",NA,NA,"yes","Montana","Therriault and Webb 2017","Therriault and Webb 2017","Clancy and Bourret 2020","","","",NA,"",0
+"332","Ameriurus natalis","Yellow bullhead","bullhead","fish","yes","","","","","","","","","","","","","",NA,NA,"yes","Montana","BC Ministry List","","Clancy and Bourret 2020","","","",NA,"",0
+"334","Amphilophus citrinellus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",2
+"335","Amphilophus labiatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",2
+"336","Anabas testudineus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",12
+"337","Anguilla australis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",28
+"338","Anguilla bicolor ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",5
+"339","Anguilla japonica ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",60
+"341","Anomalochromis thomasi ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"342","Anostomus anostomus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"343","Aphyocharax anisitsi ","Bloodfin tetra","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"344","Aphyocharax paraguayensis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"345","Aphyocharax rathbuni ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"346","Aphyosemion australe ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"347","Aphyosemion filamentosum ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"348","Aphyosemion gabunense ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"349","Aphyosemion striatum ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"350","Apistogramma agassizii ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"351","Apistogramma atahualpa ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"352","Apistogramma bitaeniata ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"353","Apistogramma borellii ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"354","Apistogramma cacatuoides ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"355","Apistogramma commbrae ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"356","Apistogramma cruzi ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"357","Apistogramma eunotus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"358","Apistogramma gibbiceps ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"359","Apistogramma hongsloi ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"360","Apistogramma linkei ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"361","Apistogramma macmasteri ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"362","Apistogramma nijsseni ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"363","Apistogramma panduro ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"364","Apistogramma piauiensis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"365","Apistogramma trifasciata ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"366","Apistogramma tucurui ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"367","Apistogramma viejita ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"368","Aplocheilichthys myersi ","","","fish","","","","","","","","","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"369","Aplocheilichthys normani ","norman's lampeye","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family climate match ","",NA,"",0
+"370","Aplocheilus dayi ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"371","Aplocheilus lineatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",4
+"372","Aplocheilus panchax ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",1
+"373","Apteronotus albifrons ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",5
+"374","Apteronotus leptorhynchus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",6
+"375","Archocentrus myrnae ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"376","Arnoldichthys spilopterus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"378","Astyanax fasciatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",8
+"379","Astyanax jordani ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",2
+"380","Astyanax mexicanus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",17
+"381","Atractosteus spatula ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",5
+"382","Auchenipterichthys thoracatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"383","Awaous bustamantei ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"384","Balantiocheilos melanopterus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"385","Barbonymus altus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",1
+"386","Barbonymus schwanenfeldii ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",4
+"387","Beaufortia kweichowensis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"388","Beaufortia leveretti ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"389","Bedotia gaeyi","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"390","Betta splendens","Siamese fighting fish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Gertzen et al. 2007","","","","","",NA,"",15
+"391","Boehikee fredcochui ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"392","Boraras maculatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"393","Botia dario ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"394","Botia histrionica ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"395","Botia kubotai ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"396","Botia lohachata ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"397","Botia macracanthus","Clown loach","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Gertzen et al. 2007","","","","","",NA,"",0
+"398","Botia pulchripinnis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"399","Botia striata ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"400","Brachygobius doriae ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",1
+"401","Brachygobius xanthozonus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"402","Brochis britskii ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"403","Brochis multiradiatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"404","Brochis splendens ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"405","Brycinus longipinnis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"406","Bunocephalus coracoideus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"407","Bunocephalus knerii ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"408","Callichthys callichthys ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",1
+"414","Centromochlus reticulatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"415","Chaca chaca","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"416","Chalceus macrolepidotus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"417","Channa asiatica ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",3
+"418","Channa gachua ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",3
+"419","Channa lucius ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"421","Channa micropeltes ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",4
+"422","Channa punctata ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",5
+"423","Channa striata ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",8
+"424","Characidium fasciatum ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"425","Chilodus punctatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"426","Chromobotia macracanthus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"427","Cirrhina molitorella ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"429","Colisa lalia","Dwarf gourami","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Gertzen et al. 2007","","","","","",NA,"",6
+"430","Colossoma macropomum ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",11
+"432","Corydoras adolfoi ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"433","Corydoras aeneus ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",3
+"434","Corydoras agassizii ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"435","Corydoras arcuatus ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",1
+"436","Corydoras atropersonatus ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"437","Corydoras axelrodi ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",1
+"438","Corydoras blochi ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"439","Corydoras concolor ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"440","Corydoras delphax ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"441","Corydoras duplicareus ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"442","Corydoras elegans ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"443","Corydoras eques ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"444","Corydoras habrosus ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"445","Corydoras hastatus ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"446","Corydoras julii ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"447","Corydoras melanistius ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"448","Corydoras melanotaenia ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"449","Corydoras melini ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"450","Corydoras metae ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"451","Corydoras nattereri ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"452","Corydoras ornatus ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"453","Corydoras paleatus ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",5
+"454","Corydoras panda ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"455","Corydoras polystictus ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"456","Corydoras punctatus ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"457","Corydoras pygmaeus ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"458","Corydoras rabauti ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"459","Corydoras reticulatus ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"460","Corydoras schwartzi ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"461","Corydoras spilurus ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"462","Corydoras sterbai ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"463","Corydoras trilineatus ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"464","Corydoras zygatus ","Corydoras catfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"466","Crenuchus spilurus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"467","Crossocheilus latius ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"468","Crossocheilus siamensis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"469","Ctenobrycon hauxwellianus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"470","Ctenobrycon spilurus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"472","Ctenopoma acutirostre","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"474","Cynoglossus microlepis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"478","Danio choprai","Danio burmese glowlight","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Gertzen et al. 2007","","","","","",NA,"",0
+"479","Danio rario","Zebra danio","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Gertzen et al. 2007","","","","","",NA,"",0
+"480","Dermogenys pusilla ","","","fish","","","","","","","","","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"481","Dianema longibarbis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"482","Dianema urostriatum ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"483","Dormitator latifrons ","","","fish","","","","","","","","","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"484","Doryichthys boaja ","","","fish","","","","","","","","","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"485","Elassoma evergladei ","","","fish","","","","","","","","","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",1
+"486","Epiplatys annulatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"490","Exodon paradoxus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"491","Fundulopanchax filamentosus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"492","Fundulopanchax gardneri ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",1
+"493","Fundulopanchax puerzli ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"494","Fundulopanchax sjostedti ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",1
+"495","Fundulopanchax walkeri ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"496","Gambusia aflnis","Mosquitofish","Mosquitofish","fish","","","yes","","","","","yes","","","","","","yes",NA,NA,"","","Crossman 1991, Keller and Lodge, Mandrak et al. 2014","","","Exotic, not climate match to canada","Authorized Introduction, family climate match ","",NA,"",0
+"497","Gambusia holbrooki ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",293
+"499","Gastromyzon borneensis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"501","Gobiodon rivulatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"502","Gobioides broussonnetii ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"503","Gymnocorymbus ternetzi ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",4
+"504","Gyrinocheilus aymonieri","Chinese algae-eater","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Gertzen et al. 2007","","","","","",NA,"",0
+"505","Hasemania nana ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"506","Hemibagrus nemurus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"507","Hemichromis sp.","Jewel cichlid","cichlid","fish","yes","","","","","","","","","","","","","",NA,NA,"","","BC Ministry List","","","","","",NA,"",5
+"508","Hemigrammus bleheri ","Firehead tetra","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Gertzen et al. 2007","","","","","",NA,"",0
+"509","Hemigrammus bleheri ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"510","Hemigrammus erythrozonus ","Glowlight tetra","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"511","Hemigrammus gracilis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"512","Hemigrammus hyanuary ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"513","Hemigrammus ocellifer ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"514","Hemigrammus pulcher ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",1
+"515","Hemigrammus rhodostomus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"516","Hemigrammus rodwayi ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"517","Hemigrammus ulreyi ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"518","Heterandria formosa ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",11
+"520","Homaloptera ophiolepis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"521","Hoplocharax goethei ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"522","Hoplosternum littorale ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",15
+"523","Hoplosternum thoracatum ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"524","Horabagrus brachysoma ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"525","Hyalobagrus ornatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"526","Hyphessobrycon amandae ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"527","Hyphessobrycon anisitsi ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",1
+"528","Hyphessobrycon axelrodi ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"529","Hyphessobrycon bentosi ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"530","Hyphessobrycon columbianus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"531","Hyphessobrycon ecuadoriensis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"532","Hyphessobrycon eos ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"533","Hyphessobrycon eques ","Jewel tetra","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",5
+"534","Hyphessobrycon erythrostigma ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"535","Hyphessobrycon flammeus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"536","Hyphessobrycon herbertaxelrodi ","Black neon tetra","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",1
+"537","Hyphessobrycon loretoensis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"538","Hyphessobrycon megalopterus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"539","Hyphessobrycon metae ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"540","Hyphessobrycon pulchripinnis ","Lemon tetre","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"541","Hyphessobrycon pyrrhonotus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"542","Hyphessobrycon rosaceus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"543","Hyphessobrycon roseus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"544","Hyphessobrycon scholzei ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"545","Hyphessobrycon serpae ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"546","Hyphessobrycon socolofi ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"547","Hyphessobrycon sweglesi ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"553","Icthyomyzon gagei ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"555","Inpaichthys kerri ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"556","Jordanella floridae ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",3
+"557","Kribia kribensis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"558","Kryptopterus bicirrhis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",2
+"559","Kryptopterus cryptopterus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"560","Kryptopterus macrocephalus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"561","Kryptopterus minor ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"562","Ladigesia roloffi ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"567","Lepidarchus adonis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"568","Lepidocephalichthys guntea ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"569","Lepidocephalus thermalis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"572","Lepisosteus platyrhincus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"578","Leporinus fasciatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"579","Leporinus octofasciatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"580","Leptobotia guilinensis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"584","Megalechis thoracata ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",1
+"585","Metynnis argenteus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"586","Metynnis hypsauchen ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"587","Metynnis lippincottianus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",2
+"588","Metynnis maculatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",5
+"593","Moenkhausia ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",6
+"594","Moenkhausia oligolepis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"595","Moenkhausia pittieri ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"596","Moenkhausia sanctaefilomenae ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",1
+"597","Mogurnda adspersa ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",5
+"598","Mogurnda mogurnda ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",11
+"599","Monopterus albus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",14
+"602","Morone saxatilis x chrysops ","Wiper","Bass","fish","","","no","","","","","yes","yes","","","","","",NA,NA,"","","Mandrak et al 2014","","Roy et al. 2018","","","",NA,"",9
+"603","Myleus schomburgkii ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"604","Mylopharynghodon piceus","Black carp","carp","fish","","","","","","Yes","","","yes","","","","","",NA,NA,"","","Therriault and Webb 2017","Therriault and Webb 2017, DFO Canadawide RA","Roy et al. 2018","","","",NA,"",0
+"605","Myloplus rubripinnis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"606","Mylossoma aureum ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"607","Mystus leucophasis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"608","Mystus micracanthus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"609","Myxocyprinus asiaticus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",1
+"610","Nemacheilus fasciatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"611","Nematobrycon lacortei ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"612","Nematobrycon palmeri ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"613","Neoceratodus forsteri","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",5
+"614","Nomorhamphus liemi ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"616","Nothobranchius guentheri ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",1
+"617","Nothobranchius rachovii ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"618","Nothobranchius rubripinnis","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"622","Odontamblyopus rubicundus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"633","Otocinclus affinis","Golden otocinclus","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Gertzen et al. 2007","","","","","",NA,"",1
+"634","Oxyeleotris marmorata ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",2
+"635","Pangio kuhlii ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"636","Pangio kuhlii ","Coolie loach","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Gertzen et al. 2007","","","","","",NA,"",0
+"637","Pangio myersi ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"638","Pangio oblonga ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"639","Pangio semicincta ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"640","Pangio shelfordii ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"641","Paracheilognathus himantegus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"642","Paracheirodon axelrodi ","Cardinal tetra","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",3
+"643","Paracheirodon innesi","neon tetra","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Gertzen et al. 2007","","","","","",NA,"",0
+"644","Paracheirodon innesi ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"645","Paracheirodon simulans ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"646","Parambassis pulcinella ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"647","Parambassis ranga ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",1
+"648","Parambassis siamensis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"649","Parambassis wolffii ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"655","Percottus glenii","Amur sleeper","","fish","","","","","","","","","yes","","","","","",NA,NA,"","","Roy et al. 2018","","Roy et al. 2018","","","",NA,"",0
+"656","Periophthalmus barbarus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",1
+"657","Petitella georgiae ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"659","Phenacogrammus aurantiacus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"660","Phenacogrammus interruptus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"662","Piaractus brachypomus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",16
+"665","Piractus brachypomus","Red-bellied pacu","pacu","fish","yes","","","","","","","","","","","","","",NA,NA,"","","BC Ministry List","","","","","",NA,"",0
+"667","Poecilia latipinna ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",25
+"668","Poecilia petenensis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",1
+"669","Poecilia reticulata ","Guppy","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family climate match ","",NA,"",232
+"670","Poecilia sphenops ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",10
+"671","Poecilia velifera ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",6
+"674","Priapella intermedia ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",2
+"675","Prionobrama filigera ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"676","Pristella maxillaris ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",1
+"677","Pristobrycon striolatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"678","Procatopus aberrans ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"679","Pseudambassis baculis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"680","Pseudogastromyzon fasciatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",1
+"681","Pseudogastromyzon myersi ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"682","Pseudomystus siamensis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"684","Pterophyllum scalare","Angelfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Gertzen et al. 2007","","","","","",NA,"",9
+"685","Pterygoplichthys","plecostomus","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Gertzen et al. 2007","","","","","",NA,"",95
+"687","Puntius arulius ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"688","Puntius asoka ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"689","Puntius chola ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",1
+"690","Puntius conchonius ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",2
+"691","Puntius denisonii ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",1
+"692","Puntius everetti ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"693","Puntius filamentosus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",3
+"694","Puntius gelius ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"695","Puntius hexazona ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",1
+"696","Puntius johorensis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",1
+"697","Puntius lateristriga ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",1
+"698","Puntius lineatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",1
+"699","Puntius melanampyx ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"700","Puntius nigrofasciatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"701","Puntius oligolepis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",1
+"702","Puntius partipentazona ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",1
+"703","Puntius pentazona ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"704","Puntius rhomboocellatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"705","Puntius sachsii ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",1
+"706","Puntius semifasciolatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",3
+"707","Puntius tetrazona ","Tiger barb","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family climate match ","",NA,"",3
+"708","Puntius ticto ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",1
+"709","Puntius titteya ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"710","Puntius vittatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"711","Pygocentrus cariba ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",1
+"712","Pygocentrus nattereri ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",11
+"713","Pygocentrus piraya ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",1
+"714","Rasbora borapetensis ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"715","Rasbora dorsiocellata ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"716","Rasbora einthovenii ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"717","Rasbora elegans ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"718","Rasbora kalochroma ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"719","Rasbora meinkeni ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"720","Rasbora pauciperforata ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"721","Rasbora trilineata ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",1
+"722","Rasbora vaterifloris ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"733","Salvelinus namaycush x Salvelinus malma or Salvelinus confluentus","Lake trout x dolly varden or bull trout","salmonid","fish","","","","","","","","","","","","","","",NA,NA,"","","Crossman 1991","","","","Authorized Introduction","",NA,"",50
+"734","Salvelinus trutta x Salvelinus namaycush","Splake","Splake","fish","yes","","","","","","","","","","","","","",NA,NA,"","","BC Ministry List","","","","","",NA,"",1
+"737","Sawbwa resplendens ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"738","Schistura mahnerti ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"739","Scleromystax barbatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",1
+"740","Serrasalmus brandti ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"741","Serrasalmus elongatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"742","Serrasalmus manueli ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"743","Serrasalmus niger ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"744","Serrasalmus rhombeus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"745","Serrasalmus striolatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"746","Serrasalmus ternetzi ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"747","Sewellia lineolata ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"750","Stigmatogobius sadanundio ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"751","Stiphodon ornatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"753","Sundadanio axelrodi ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"754","Syncrossus hymenophysa ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"755","Tanichthys albonubes ","white cloudmountain minnow","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family climate match ","",NA,"",3
+"756","Tateurndina ocellicauda ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"757","Thayeria boehlkei ","Blackline penguinfish","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family not a match","",NA,"",0
+"758","Thayeria obliqua ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"761","Trigonostigma espei ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"762","Trigonostigma hengeli ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"763","Trigonostigma heteromorpha ","Harlequin rasbora","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Gertzen et al. 2007","","","","","",NA,"",0
+"764","Trinectes maculatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014, Gertzen et al. 2007","","","not climate match to canada","family climate match ","",NA,"",0
+"765","Tyttocharax cochui ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family not a match","",NA,"",0
+"767","Xenentodon cancila ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",1
+"768","Xiphophorus birchmanni ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"769","Xiphophorus hellerii ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",28
+"770","Xiphophorus maculatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",26
+"771","Xiphophorus spp","playfishes","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Gertzen et al. 2007","","","","","",NA,"",8
+"772","Xiphophorus spp","swordtails","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Gertzen et al. 2007","","","","","",NA,"",8
+"773","Xiphophorus variatus ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",6
+"774","Xiphspkorus helleri","Green swordtail","swordtail","fish","","","","","","","","","","","","","","",NA,NA,"","","Crossman 1991","","","Exotic","Authorized Introduction","",NA,"",0
+"775","Yasuhikotakia lecontei ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"776","Yasuhikotakia modesta ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"777","Yasuhikotakia morleti ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"778","Yasuhikotakia sidthimunki ","","","fish","","","","","","","","yes","","","","","","",NA,NA,"","","Mandrak et al. 2014","","","not climate match to canada","family climate match ","",NA,"",0
+"779","Saprolegnia parasitica","water mould","Ootmycetes","fungus","","","","","","","","","","","","","","",NA,NA,"","","","","(de la Bastide et al. 2018)","","","",NA,"",11
+"780","Bellamya chinensis  OR Cipangopaludina chinensis","Chinese Mysterysnail ","mollusc","invertebrate","yes","","yes","no","","","","","","","","","","",NA,NA,"yes","Washington","Schroeder et al. 2014, BC Ministry List","","(Olden et al. 2009)","considered benign","","",NA,"",44
+"781","Bellamya japonica OR Cipangopaludina japonica","Japanese Mysterysnail ","mollusc","invertebrate","","","yes","","","","","","","","","","","",NA,NA,"","","Schroeder et al. 2014","","","net fouler","","",NA,"",7
+"788","Capeloma decisum ","Pointed Campeloma ","mollusc","invertebrate","","","yes","","","","","","","","","","","",NA,NA,"","","Schroeder et al. 2014","","","","","",NA,"",0
+"796","Fusconia flava ","Wabash Pigtoe ","mollusc","invertebrate","","","yes","","","","","","","","","","","",NA,NA,"","","Schroeder et al. 2014","Schroeder et al. 2014","","","","",NA,"",0
+"797","Helisoma anceps ","Two-ridge Rams Horn ","mollusc","invertebrate","","","yes","","","","","","","","","","","",NA,NA,"","","Schroeder et al. 2014","Schroeder et al. 2014","","","","",NA,"",8
+"798","Helisoma trivolvis OR Planorella trivolvis","","mollusc","invertebrate","","","yes","","","","","","","","","","","",NA,NA,"","","Schroeder et al. 2014","Schroeder et al. 2014","","","","",NA,"",382
+"800","Hydra sp.","","","invertebrate","","","","","","","","yes","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on sword plants and Vallisneria plants","","",NA,"",2
+"803","Lymnaea palustris Stagnicola palustris","","mollusc","invertebrate","","","yes","","","","","yes","","","","","","",NA,NA,"","","Schroeder et al. 2014, DFO SLRA 2014, Duggan et al. 2018","Schroeder et al. 2014","","","","",NA,"",0
+"805","Lymnaea stagnalis ","","mollusc","invertebrate","","","yes","","","","","","","","","","","",NA,NA,"","","Schroeder et al. 2014","Schroeder et al. 2014","","","","",NA,"",62
+"807","Mites","mites","mites","invertebrate","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on sword plants and Vallisneria plants","","",NA,"",1684
+"808","Musculium lacustre ","Lake Fingernail Clam ","mollusc","invertebrate","","","yes","","","","","","","","","","","",NA,NA,"","","Schroeder et al. 2014","Schroeder et al. 2014","","","","",NA,"",1
+"809","Musculium partumeium ","Swamp Fingernail Clam ","mollusc","invertebrate","","","yes","","","","","","","","","","","",NA,NA,"","","Schroeder et al. 2014","Schroeder et al. 2014","","","","",NA,"",2
+"812","Nematoda","nematodes","nematodes","invertebrate","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on sword plants and Vallisneria plants","","",NA,"",523
+"813","Oligochaeta","annelida","annelida","invertebrate","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on sword plants and Vallisneria plants","","",NA,"",332
+"814","Pacificastus lenisculus","Signal crayfish","crayfish","invertebrate","yes","yes","yes","","","","","","","","yes","","","",NA,NA,"yes","Washington","","(Mueller 2007; Mueller and Bodensteiner 2009; Larson et al. 2017), larson and olden 2013","","","","",NA,"",0
+"817","Physa acuta ","European Physa ","mollusc","invertebrate","","","yes","","","","","yes","","","","","","",NA,NA,"","","Schroeder et al. 2014, Duggan et al. 2018","Schroeder et al. 2014","","on sword plants and Vallisneria plants","","",NA,"",77
+"818","Physa fontinalis ","Common Bladder Snail ","mollusc","invertebrate","","","yes","","","","","","","","","","","",NA,NA,"","","Schroeder et al. 2014","Schroeder et al. 2014","","","","",NA,"",4
+"819","Pisidium amnicum ","Greater European Peaclam ","mollusc","invertebrate","","","yes","","","","","","","","","","","",NA,NA,"","","Schroeder et al. 2014","Schroeder et al. 2014","","","","",NA,"",9
+"820","Pisidium corneum OR Sphaerium corneum ","European Fingernail Clam ","mollusc","invertebrate","","","yes","","","","","","","","","","","",NA,NA,"","","Schroeder et al. 2014","Schroeder et al. 2014","Mackie 1976; Mackie 2000","parasite host","","",NA,"",17
+"821","Pisidium henslowanum ","Henslow Peaclam ","mollusc","invertebrate","","","yes","","","","","","","","","","","",NA,NA,"","","Schroeder et al. 2014","Schroeder et al. 2014","","","","",NA,"",2
+"822","Pisidium moitesserianum ","Pygmy Peaclam ","mollusc","invertebrate","","","yes","","","","","","","","","","","",NA,NA,"","","Schroeder et al. 2014","Schroeder et al. 2014","","","","",NA,"",0
+"823","Pisidium supinuum ","Humpbacked Peaclam ","mollusc","invertebrate","","","yes","","","","","","","","","","","",NA,NA,"","","Schroeder et al. 2014","Schroeder et al. 2014","","","","",NA,"",0
+"824","Planorbidae","","mollusc","invertebrate","","","","","","","","yes","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on sword plants and Vallisneria plants","","",NA,"",67
+"825","Platyhelminthes","Platyhelmenthes","Platyhelmenthes","invertebrate","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on sword plants ","","",NA,"",196
+"826","Plumatella","bryozoan","bryozoan","invertebrate","","","","","","","","yes","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on sword plants","","",NA,"",6
+"830","Pomacea insularum ","Island Apple Snail ","mollusc","invertebrate","","","No ","","","","","yes","","","","","","",NA,NA,"","","Schroeder et al. 2014, DFO SLRA 2014","Schroeder et al. 2014","","","","",NA,"",45
+"832","Promcambarus clarkii","Red Swamp crayfish","crayfish","invertebrate","","","yes","","","","","","","yes","","","","",NA,NA,"yes","Washington","Brown and Therriault, Keller and Lodge 2007","(Mueller 2007; Mueller and Bodensteiner 2009; Larson et al. 2017)","","","","",NA,"",0
+"834","Tardigrada","tardigrade","tardigrade","invertebrate","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on Vallisneria plants","","",NA,"",22
+"835","Tarebia granifera OR Thiara granifera ","Quilted Melania ","mollusc","invertebrate","","","No ","","","","","yes","","","","","","",NA,NA,"","","Schroeder et al. 2014, DFO SLRA 2014","","","","","",NA,"",75
+"837","Lepeophtheirus salmonis","sea lice","copepod","parasite","","","","","","","","","","","","","","",NA,NA,"","","","","","concern that it could evolve freshwater tolerance Groner et al. 2019, Ljungfeldt et al. 2017","","",NA,"",52
+"840","Agapanthus africanus ","lily of the Nile","","plant","","","","","","","yes","","","","","","","",NA,NA,"","","Azan et al. 2015","Azan et al. 2015","","Low","","",NA,"",1
+"841","Chelydra serpentina serpentina","Eastern snapping turtle","turtle","reptile","yes","","","yes","","","","","","","","","","",NA,NA,"","","BC Ministry List","","","","","",NA,"",25
+"845","Alona gutatta","","cladocera","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on sword plants and Vallisneria plants","","",NA,"",0
+"847","Cephalodella gibba","","rotifer","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on sword plants and Vallisneria plants","","",NA,"",0
+"848","Cephalodella hoodi","","rotifer","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on Vallisneria plants","","",NA,"",0
+"849","Colurella uncinata","","rotifer","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on Vallisneria plants","","",NA,"",0
+"850","Cupelopagis vorax","","rotifer","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on sword plants and Vallisneria plants","","",NA,"",0
+"851","Dicranophorus epicharis","","rotifer","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on sword plants and Vallisneria plants","","",NA,"",0
+"852","Dunhevedia crassa","","cladocera","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on Sword plants","","",NA,"",0
+"853","Eucyclops serrulatus","","copepoda","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on sword plants and Vallisneria plants","","",NA,"",3
+"855","Lane hamata","","rotifer","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on sword plants and Vallisneria plants","","",NA,"",0
+"856","Lecane bulla","","rotifer","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on sword plants and Vallisneria plants","","",NA,"",0
+"857","Lecane closterocerca","","rotifer","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on sword plants and Vallisneria plants","","",NA,"",0
+"858","Lecane flexilis","","rotifer","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on sword plants and Vallisneria plants","","",NA,"",0
+"859","Lecane monostyla","","rotifer","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on Vallisneria plants","","",NA,"",1
+"860","Lecane pyriformis","","rotifer","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on Vallisneria plants","","",NA,"",1
+"861","Lecane stichea","","rotifer","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on sword plants and Vallisneria plants","","",NA,"",0
+"862","Lepadella ovalis","","rotifer","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on sword plants and Vallisneria plants","","",NA,"",1
+"863","Lepadella patella","","rotifer","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on Sword plants","","",NA,"",0
+"865","Microcyclops rubellus","","copepoda","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on Sword plants","","",NA,"",1
+"866","Nitokra pietshmanni","","copepoda","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on sword plants and Vallisneria plants","","",NA,"",0
+"867","Notommata tripus","","rotifer","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on Vallisneria plants","","",NA,"",0
+"868","Ostracoda","","Ostracoda","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on sword plants and Vallisneria plants","","",NA,"",86
+"869","Phyllognathopus vigueri","","copepoda","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on Sword plants","","",NA,"",0
+"870","Proales","","rotifer","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on Sword plants","","",NA,"",0
+"873","Ptygura","","rotifer","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on Vallisneria plants","","",NA,"",1
+"874","Schizopera","","copepoda","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on sword plants and Vallisneria plants","","",NA,"",6
+"876","Trichocerca","","rotifer","zooplankton","","","","","","","yes","","","","","","","",NA,NA,"","","Duggan et al. 2018","","","on Vallisneria plants","","",NA,"",4

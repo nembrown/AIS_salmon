@@ -1,0 +1,391 @@
+,Species.name,common.name,taxa_smaller,taxa_big,present.in.BC,established.in.BC,established.in.Canada,native.to.part.of.BC,source.region.to.BC,hitlist..according.to.Therriault.and.Webb.,ornamental.nursery.trade,aquarium.pet..trade,live.food.market,biological.supply,aquaculture,fish.stocking,recreational.boating,bait.industry,shipping.and.ballast,canals.and.diversions,adjacent.region,if.adjacent..where,exotic.to.NA,invasive.in.NA,globally.invasive,Listed.in.publications,Risk.assessment.pubs,impact.other.pubs,X,X.1,X.2,X.3,X.4,X.5,wos
+89,Dreissena polymorpha ,Zebra Mussel ,mollusc,invertebrate,,,yes,,,,,,,,,,yes,,NA,NA,,,yes,yes,yes,Schroeder et al. 2014,"Therriault et al. 2013, DFO Canadawide RA",,,,NA,NA,,NA,1459
+260,Phragmites,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,1109,,NA,1109
+239,Oncorhynchus mykiss ,"Rainbow trout, Steelhead",salmonid,fish,,,yes,,"Ontario, Washington , California, Norway",,,,yes,,yes,,,,NA,NA,yes,"Montana, Washington",no,yes,yes,"Crossman 1991, Mandrak et al 2014, DFO aquaculture liscence",,"Carim et al. 2015, Clancy and Bourret 2020, (Ostberg and Rodriguez 2006; Ostberg and Chase 2012), Bonar et al. 2005, Taylor et al. 2007; Pearon and Goater 2008; Rasmussen et al. 2010, 2012; Hanisch et al. 2012, 2013; Yau and Taylor 2013)",,,NA,NA,,NA,1097
+83,Cyprinus carpio ,"Common carp, koi",carp,fish,,yes,yes,,,Yes,,yes,yes,,yes,,,,NA,NA,yes,Washington,yes,yes,yes,"Crossman 1991, Mandrak et al 2014, DFO aquaculture liscence, Therriault and Webb 2017, BC Ministry List",Therriault and Webb 2017,Feeken et al. 2019,,,NA,NA,,NA,874
+334,Salmo trutta,Brown trout,salmonid,fish,,yes,yes,,,,,,,,,,,,NA,NA,yes,Montana,yes,yes,yes,"Crossman 1991, BC Ministry List",,Clancy and Bourret 2020,,,NA,NA,,NA,731
+294,Procambarus clarkii,Red Swamp crayfish,crayfish,invertebrate,,,yes,,,,,,,yes,,,,,NA,NA,yes,Washington,no,yes,yes,"Brown and Therriault, Keller and Lodge 2007",(Mueller 2007; Mueller and Bodensteiner 2009; Larson et al. 2017),,,,NA,NA,,NA,694
+385,Xenopus laevis,African clawed frog,frog,amphibian,,,,,,,,yes,yes,yes,,,,,NA,NA,,,,,,Keller and Lodge 2007,,,,,NA,623,,NA,623
+333,Salmo salar ,Atlantic salmon,salmonid,fish,,yes,yes,,"Washington, Scotland",,,,yes,,yes,,,,NA,NA,yes,Alaska,no,yes,yes,"Crossman 1991, Mandrak et al 2014, DFO aquaculture liscence, BC Ministry List",, (Wing et al. 1992; Piccolo and Orlikowska 2012),,,NA,NA,,NA,585
+247,Pacifastacus leniusculus,Signal crayfish,crayfish,invertebrate,yes,yes,yes,,,,,,,,yes,,,,NA,NA,yes,Washington,no,yes,yes,,"(Mueller 2007; Mueller and Bodensteiner 2009; Larson et al. 2017), larson and olden 2013",,,,NA,NA,,NA,487
+202,Morone saxatilis x Morone chrysops OR Wiper,Wiper,Bass,fish,,,no,,,,,,yes,,,,,,NA,NA,,,no,,,Mandrak et al 2014,,Roy et al. 2018,,,NA,NA,,NA,480
+243,Oreochromis niloticus,Nile Tilapia,tilapia,fish,,,,,,,,,,,yes,,,,NA,NA,,,yes,yes,yes,DFO aquaculture liscence,,,,,NA,NA,,NA,463
+68,Corbicula fluminea ,Asian Clam ,mollusc,invertebrate,yes,,yes,no,,,yes,,,,,,,,NA,NA,yes,Washington,yes,yes,yes,"Schroeder et al. 2014, Keller 2007, BC Ministry List; Keller and Lodge 2007",,"Ricciardi 1998; Magara et al. 2001; Cataldo et al. 2012, Dexter et al. 2020, Holbrook et al. 2020, Phelps 1994",,,NA,NA,,NA,453
+54,Carassius carassius ,Crucian carp,carp,fish,,,no,,,,,,yes,yes,,,,,NA,NA,,,yes,no,yes,Mandrak et al 2014,,Roy et al. 2018,,,NA,NA,,NA,400
+117,Helisoma trivolvis OR Planorella trivolvis,,mollusc,invertebrate,,,yes,,,,,,,,,,,,NA,NA,,,,,,Schroeder et al. 2014,Schroeder et al. 2014,,,,NA,382,,NA,382
+337,Salvelinus fontinalis,Brook trout (eastern),eastern),fish,,yes,yes,,,,,,,,yes,,,,NA,NA,yes,"Montana, Idaho, Washington, Alberta",no,yes,no,"Crossman 1991, DFO aquaculture liscences, BC Ministry List",,"Clancy and Bourret 2020, Benjamin and Baxter 2010, Hofman et al. 2014, (Parker and Schindler 2006; Pacas and Taylor 2015)",,,NA,NA,,NA,351
+88,Dreissena bugensis ,Quagga Mussel ,mollusc,invertebrate,,,yes,,,,,,,,,,yes,,NA,NA,,,yes,yes,no,Schroeder et al. 2014,"Therriault et al. 2013, DFO Canadawide RA",,,,NA,NA,,NA,343
+190,Micropterus salmoides ,Largemouth bass,bass,fish,,yes,yes,,USA,Yes,,yes,yes,,,,,,NA,NA,yes,"Montana, Idaho, Washington",no,yes,yes,"Crossman 1991, Mandrak et al 2014, Therriault and Webb 2017, BC Ministry List, Keller and Lodge 2007","Therriault and Webb 2017, DFO 2010 BC RA","Clancy and Bourret 2020, Braun and Walser 2011,Christensen and Moore 2010; Hawkins et al. 2020; Marsha et al. 2021, bonar et al. 2005",,,NA,NA,,NA,336
+107,Gambusia affinis,Mosquitofish,Mosquitofish,fish,,,yes,,,,,,,,,,,yes,NA,NA,,,no,yes,yes,"Crossman 1991, Keller and Lodge ",,,,,NA,NA,,NA,312
+212,Myriophyllum spicatum,Eurasian water-milfoil (spiked),milfoil,aquatic plant,yes,,yes,no,,,yes,yes,,,,,yes,,NA,NA,yes,"Idaho, Washington",yes,yes,yes,"BC Ministry List, Keller and Lodge 2007",,"(Moody and Les 2007; Madsen et al. 2015; Liao et al. 2016, Wagner and Falter 2002, Parsons et al. 2009; Tamayo and Olden 2014; Olden and Tamayo 2014)",,,NA,NA,,NA,304
+6,Alternanthera ,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately High,,NA,299,,NA,299
+108,Gambusia holbrooki ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,293,,NA,293
+282,Pomacea canaliculata ,Golden/Channelled Apple Snail ,mollusc,invertebrate,,,No ,,,,,yes,,,,,,,NA,NA,,,yes,yes,yes,"Schroeder et al. 2014, DFO SLRA 2014",Schroeder et al. 2014,,,,NA,NA,,NA,274
+53,Carassius auratus ,Goldfish,Goldfish,fish,,yes,yes,,,,yes,yes,yes,,,,,,NA,NA,,,yes,yes,yes,"Crossman 1991, Mandrak et al 2014, Gartner et al. 2011, BC Ministry List, Keller and Lodge 2007, Gertzen et al. 2007",,,,,NA,NA,,NA,272
+320,Rana catesbeiana,Bullfrog,frog,amphibian,yes,yes,,no,,,,,,,,,,,NA,NA,yes,"Montana, Washington",no,yes,yes,BC Ministry List,,"Sepulveda and Layhee 2015, Adams 1999",,,NA,NA,,NA,249
+138,Hypophthalmichthys molitrix ,Silver carp ,carp,fish,,,,,,Yes,,,,,,,,,NA,NA,,,yes,yes,yes,Therriault and Webb 2017,"Therriault and Webb 2017, DFO Canadawide RA",Roy et al. 2018,,,NA,NA,,NA,248
+163,Lepomis gibbosus,Pumpkinseed,sunfish,fish,,yes,yes,,USA,Yes,,,,,,,,,NA,NA,yes,"Montana, Washington",no,yes,yes,"Crossman 1991, Therriault and Webb 2017, BC Ministry List","Therriault and Webb 2017, DFO 2010 BC RA","Clancy and Bourret 2020, Bonar et al. 2005",,,NA,NA,,NA,242
+203,Musa,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,240,,NA,240
+277,Poecilia reticulata ,Guppy,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,"Mandrak et al. 2014, Gertzen et al. 2007",,,not climate match to canada,family climate match ,NA,232,,NA,232
+241,Oncorhynchus tshawytscha,Chinook salmon,salmonid,fish,,,,,"Yukon, Oregon, Washington",,,,,,yes,,,,NA,NA,yes,Washington,no,yes,yes,"Crossman 1991, DFO aquaculture liscences",,Jezorek and Connolly 2015,,,NA,NA,,NA,230
+291,Potamopyrgus antipodarum ,New Zealand Mudsnail ,mollusc,invertebrate,yes,,yes,no,,,,,,,,,,,NA,NA,yes,"Idaho, Washington",yes,yes,yes,"Schroeder et al. 2014, BC Ministry List","Therriault et al. 2011, DFO Canadawide RA",(Richards et al. 2001; Kistner and Dybdahl 2014) (Paolucci and Thuesen 2020),,,NA,NA,,NA,218
+340,Salvelinus namaycush ,Lake Trout,salmonid,fish,yes,,,yes,,,,,,,yes,,,,NA,NA,yes,"Montana, Alberta",no,yes,yes,"DFO aquaculture liscence, BC Ministry List",,"Ellis et al. 2015, Clancy and Bourret 2020, Donald and Alger 1993",,,NA,NA,,NA,216
+328,Rutilus rutilus ,Roach ,Roach,fish,,,,,,No,,,,,,,,,NA,NA,,,yes,no,yes,Therriault and Webb 2017,Therriault and Webb 2017,,,,NA,NA,,NA,212
+109,Gasterosteus aculeatus,Three spined stickleback,stickleback,fish,,,,,,,,,,,,,,,NA,NA,,,no,yes,no,Crossman 1991,,,,,NA,NA,,NA,206
+368,Trachemys scripta,red eared Slider,Slider,reptile,yes,yes,,no,,,,yes,,,,,,,NA,NA,,,no,yes,yes,BC Ministry List,,,,,NA,NA,,NA,192
+103,Esox lucius,Northern Pike,Pike,fish,,yes,yes,,"Yukon, Alberta",,,,,,,,,,NA,NA,yes,"Montana, Alaska, Alberta",no,no?,yes,"Crossman 1991, BC Ministry List",DFO 2010 BC RA,"Clancy and Bourret 2020, (Haught and von Hippel 2011; Sepulveda et al. 2013; Heins et al. 2016; Dunker et al. 2016, 2020; Cathcart et al. 2019, Sepulveda et al. 2018",,,NA,NA,,NA,191
+142,Ictalurus punctatus ,Channel catfish,catfish,fish,,yes,yes,,Idaho,,,yes,yes,,,,,,NA,NA,,,no,yes,no,"Crossman 1991, Mandrak et al 2014",,,,,NA,NA,,NA,180
+139,Hypophthalmichthys nobilis ,Bighead carp ,carp,fish,,,,,,Yes,,,yes,,,,,,NA,NA,,,yes,yes,yes,"Therriault and Webb 2017, Keller and Lodge 2007","Therriault and Webb 2017, DFO Canadawide RA",Roy et al. 2018,,,NA,NA,,NA,176
+251,Perca flavescens,Yellow perch,perch,fish,,yes,yes,yes,"Alberta, USA",Yes,,,,,,,,,NA,NA,yes,"Montana, Washington",no,yes,no,"Crossman 1991, Therriault and Webb 2017, BC Ministry List","Therriault and Webb 2017, DFO 2010 BC RA","Clancy and Bourret 2020, Bolding et al. 1998; Hansen et al. 2019, Bonar et al. 2005",,,NA,NA,,NA,174
+77,Ctenopharyngodon idella ,Grass carp,carp,fish,,,no,,,Yes,,,yes,,,,,,NA,NA,yes,Idaho,yes,yes,yes,"Mandrak et al 2014, Therriault and Webb 2017","Therriault and Webb 2017, DFO Canadawide RA","Erickson et al. 2017, Roy et al. 2018",,,NA,NA,,NA,172
+238,Oncorhynchus kisutch,Coho salmon,salmonid,fish,,,,,,,,,,yes,yes,,,,NA,NA,,,no,yes,no,"DFO aquaculture liscence, Gartner et al, 2011",,,,,NA,NA,,NA,169
+128,Hydra,,,invertebrate,,,,,,,,yes,,,,,,,NA,NA,,,,,,Duggan et al. 2018,,,on sword plants and Vallisneria plants,,NA,2,,NA,163
+236,Oncorhynchus clarkii clarkii,Cutthroat Trout,salmonid,fish,,,,,,,,,,,yes,,,,NA,NA,,,no,yes,yes,DFO aquaculture liscence,,,,,NA,NA,,NA,158
+165,Lepomis macrochirus ,Bluegill,sunfish,fish,yes,,,,,,,yes,,,,,,,NA,NA,yes,"Montana, Washington",no,yes,yes,"Mandrak et al 2014, BC Ministry List",,"Clancy and Bourret 2020, Bonar et al. 2005",,,NA,NA,,NA,155
+189,Micropterus dolomieu,Smallmouth bass,bass,fish,,yes,yes,,,Yes,,,,,,,,,NA,NA,yes,Montana,no,yes,yes,"Crossman 1991, Therriault and Webb 2017, BC Ministry List","Therriault and Webb 2017, DFO 2010 BC RA, DFO Atlantic salmon RA",Clancy and Bourret 2020,,,NA,NA,,NA,150
+349,Scirpus,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,135,,NA,135
+55,Carassius gibelio,Prussian carp,carp,fish,,,,,,,,,,,,,,,NA,NA,yes,Alberta,yes,yes,yes,,,Ruppert et al. 2017,,,NA,NA,,NA,133
+265,Pimephales promelas ,Fathead minnow,minnow,fish,,yes,yes,,Ontario,,,yes,,yes,,,,,NA,NA,yes,Montana,no,yes,yes,"Crossman 1991, Mandrak et al 2014, BC Ministry List, Keller and Lodge 2007",,Clancy and Bourret 2020,,,NA,NA,,NA,131
+185,Melanoides tuberculata ,"Malaysian Trumpet Snail, Red-rimmed Melania ",mollusc,invertebrate,,,No ,,,,,yes,,,,,,,NA,NA,,,yes,yes,yes,"Schroeder et al. 2014, DFO SLRA 2014, Duggan et al. 2018",Schroeder et al. 2014,,,,NA,NA,,NA,129
+96,Egeria densa,Brazilian waterweed,waterweed,aquatic plant,yes,,yes,no,,,yes,yes,,,,,,,NA,NA,yes,Washington,yes,yes,yes,"BC Ministry List, Keller and Lodge 2007, Cohen et al. 2007",,(Parsons et al. 2009; Tamayo and Olden 2014),,,NA,NA,,NA,123
+335,Salvelinus alpinus,Arctic char,char,fish,,,,,"Manitoba, Alaska",,,,,,yes,,,,NA,NA,,,no,yes,no,"Crossman 1991, DFO aquaculture liscences",,,,,NA,NA,,NA,122
+373,typha angustifolia,narrow-leaved cattail,,aquatic plant,,,yes,,,,yes,,,,,,,,NA,NA,yes,Montana,,,,Keller and Lodge 2007,,,,,NA,114,montana,NA,114
+271,Pistia stratiotes,water lettuce,,aquatic plant,,,yes,,,,yes,yes,,,,,,,NA,NA,,,,,,Keller and Lodge 2007,,,,,NA,110,,NA,110
+252,Perccottus glenii,Amur sleeper,,fish,,,,,,,,,yes,,,,,,NA,NA,,,yes,no,yes,Roy et al. 2018,,Roy et al. 2018,,,NA,NA,,NA,108
+37,Biomphalaria glabrata ,Bloodfluke Planorb ,mollusc,invertebrate,,,Unknown ,,,,,yes,,,,,,,NA,NA,,,yes,yes?,no,"Schroeder et al. 2014, DFO SLRA 2014",,,,,NA,NA,,NA,104
+57,Catostomus catostomus,Longnose sucker,sucker,fish,,,,,Alberta,,,,,,,yes,,yes,NA,NA,yes,Montana,no,yes?,no,Crossman 1991,,Clancy and Bourret 2020,,,NA,NA,,NA,104
+240,Oncorhynchus nerka,"Kokanee, Sockeye salmon",salmonid,fish,,,,,,,,,,,yes,,,,NA,NA,yes,Washington,no,yes?,yes?,"Crossman 1991, DFO aquaculture liscences",,spies et al. 2007,,,NA,NA,,NA,104
+85,Didymosphenia geminata,Didymo,diatom,phytoplankton,yes,,,yes,,,,,,,,,,,NA,NA,yes,"Washington, Alberta",no,yes,yes,BC Ministry List,,"Blinn 2015, Kirkwood et al. 2007, 2009",,,NA,NA,,NA,99
+346,Sander vitreus ,Walleye ,Walleye,fish,,yes,,yes,,No,,,,,,,,,NA,NA,yes,Montana,no,yes,no,"Therriault and Webb 2017, BC Ministry List","Therriault and Webb 2017, DFO BC RA 2010",Clancy and Bourret 2020,,,NA,NA,,NA,99
+113,Gobio gobio ,Gudgeon ,Gudgeon,fish,,,,,,Yes,,,,,,,,,NA,NA,,,no,no,yes,Therriault and Webb 2017,Therriault and Webb 2017,,,,NA,NA,,NA,97
+301,Pterygoplichthys,plecostomus,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Gertzen et al. 2007,,,,,NA,95,,NA,95
+200,Morone saxatilis ,Striped bass,bass,fish,,,yes,,,,,,yes,,,,,,NA,NA,,,no,yes,yes,Mandrak et al 2014,,,,,NA,NA,,NA,90
+176,Lymnaea palustris OR Stagnicola palustris,(=Stagnicola palustris) ,mollusc,invertebrate,,,yes,,,,,yes,,,,,,,NA,NA,,,yes,no,no,"Schroeder et al. 2014, DFO SLRA 2014, Duggan et al. 2018",Schroeder et al. 2014,,,,NA,NA,,NA,89
+25,Azolla filiculoides,Large mosquito fern,fern,aquatic plant,yes,,,no,,,,,,,,,,,NA,NA,,,,,,BC Ministry List,,,,,NA,86,,NA,86
+244,Ostracoda,,Ostracoda,zooplankton,,,,,,,yes,,,,,,,,NA,NA,,,,,,Duggan et al. 2018,,,on sword plants and Vallisneria plants,,NA,86,,NA,86
+209,Myriophyllum aquaticum,Parrot's feather,feather,aquatic plant,yes,,yes,no,,,yes,yes,,,,,,,NA,NA,yes,Washington,yes,yes,yes,"BC Ministry List, Keller and Lodge 2007",,"Kuehne et al. 2016, 2018",,,NA,NA,,NA,83
+59,Ceratophyllum demersum,Common hornwort (coontail),hornwort,aquatic plant,yes,,,yes,,,yes,,,,,,,,NA,NA,,,yes,yes,yes,"BC Ministry List, Cohen et al. 2007",,,,,NA,NA,,NA,82
+289,Potamogeton malaianus OR Potamogeton nodosus,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,82,,NA,82
+175,Lymnaea natalensis OR Radix natalensis, (=Radix natalensis) ,mollusc,invertebrate,,,yes,,,,,yes,,,,,,,NA,NA,,,yes,no,no,"Schroeder et al. 2014, Duggan et al. 2018",Schroeder et al. 2014,,,,NA,NA,,NA,79
+350,Silurus glanis ,Wels catfish,catfish,fish,,yes,no,,,,,yes,yes,,,,,,NA,NA,,,yes,no,yes,Mandrak et al 2014,,Roy et al. 2018,,,NA,NA,,NA,79
+261,Physa acuta ,European Physa ,mollusc,invertebrate,,,yes,,,,,yes,,,,,,,NA,NA,,,,,,"Schroeder et al. 2014, Duggan et al. 2018",Schroeder et al. 2014,,on sword plants and Vallisneria plants,,NA,77,,NA,77
+361,Tarebia granifera OR Thiara granifera ,Quilted Melania ,mollusc,invertebrate,,,No ,,,,,yes,,,,,,,NA,NA,,,yes,yes,yes?,"Schroeder et al. 2014, DFO SLRA 2014",,,,,NA,NA,,NA,75
+121,Hemimysis anomala,Bloody red shrimp,shrimp,invertebrate,,,,,,,,,,,,,,,NA,NA,,,yes,yes,yes,,DFO Canadawide RA,,,,NA,NA,,NA,74
+215,Myxobolus cerebralis ,Whirling disease parasite,cndaria,parasite,,,,,,,,,,,,,,,NA,NA,yes,"Montana, Alaska",yes,yes,yes,,,"Carim et al. 2015; Murcia et al. 2015, Gates et al. 2009, (Arsan and Bartholomew 2008)",,,NA,NA,,NA,72
+376,Vallisneria americana,American tapegrass,tapegrass,aquatic plant,yes,,,no,,,,,,,,,,,NA,NA,,,no,yes,yes,"BC Ministry List, Cohen et al. 2007",,,,,NA,NA,,NA,69
+272,Planorbidae,,mollusc,invertebrate,,,,,,,,yes,,,,,,,NA,NA,,,,,,Duggan et al. 2018,,,on sword plants and Vallisneria plants,,NA,67,,NA,67
+356,Stizostedion vitreum ,Walleye,Walleye,fish,,,,,,,,,,,,,,,NA,NA,,,no,yes,no,Crossman 1991,,,,,NA,NA,,NA,66
+70,Coregonus clupeaformis,Lake whitefish,whitefish,fish,,yes,,yes,,,,,,,,,,,NA,NA,,,no,yes,no,"Crossman 1991, BC Ministry List",,,,,NA,NA,,NA,64
+178,Lymnaea stagnalis ,,mollusc,invertebrate,,,yes,,,,,,,,,,,,NA,NA,,,,,,Schroeder et al. 2014,Schroeder et al. 2014,,,,NA,62,,NA,62
+194,Misgurnus anguillicaudatus ,Pond loach/ Oriental weatherfish,weatherfish,fish,,yes,yes,,,,,yes,yes,,,,,,NA,NA,yes,"Idaho, Washington",yes,yes,yes,"Mandrak et al 2014, BC Ministry List, Keller and Lodge 2007",,"Urquhart and Koetsier 2014, Tabor et al. 2001, Roy et al. 2018",,,NA,NA,,NA,62
+67,Colocasia esculenta,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,61,,NA,61
+17,Anguilla japonica ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,60,,NA,60
+354,Spathiphyllum wallisii OR Stenospermatium popatenense var. wallisii,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,59,,NA,59
+8,Ameiurus melas,Black bullhead,bullhead,fish,,yes,yes,,,,,,,yes,,,,,NA,NA,yes,Montana,no,yes,yes,"Crossman 1991, BC Ministry List, Keller and Lodge 2007",,Clancy and Bourret 2020,,,NA,NA,,NA,58
+288,Potamogeton crispus,Curled pondweed (curlyleaf),curlyleaf),aquatic plant,yes,,yes,no,,,yes,,,,,,,,NA,NA,yes,Washington,yes,yes,yes,"BC Ministry List, Keller and Lodge 2007",,(Tamayo and Olden 2014),,,NA,NA,,NA,58
+130,Hydrocotyle,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately High,,NA,56,,NA,56
+329,Sagittaria,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,54,,NA,54
+366,Tinca tinca,Tench,Tench,fish,yes,,,no,USA,,,,,,,,,,NA,NA,,,yes,yes,yes,"Crossman 1991, BC Ministry List",,,,,NA,NA,,NA,54
+10,Ameiurus nebulosus ,Brown bullhead,bullhead,fish,,yes,yes,,,Yes,,,,,,,,,NA,NA,yes,"Montana, Washington",no,yes,yes,"Crossman 1991, Mandrak et al 2014, Therriault and Webb 2017, BC Ministry List",Therriault and Webb 2017,"Clancy and Bourret 2020, Bonar et al. 2005",,,NA,NA,,NA,52
+18,Anguilla rostrata ,American eel,eel,fish,,,yes,,"Newfoundland, Quebec, NY",,,,yes,,,,,,NA,NA,,,no,yes,no,"Crossman 1991, Mandrak et al 2014",,,,,NA,NA,,NA,52
+141,Ictalurus furcatus ,Blue catfish,catfish,fish,,,no,,,,,,,,,,,,NA,NA,,,no,yes,yes?,Mandrak et al 2014,,,,,NA,NA,,NA,52
+159,Lepeophtheirus salmonis,sea lice,copepod,parasite,,,,,,,,,,,,,,,NA,NA,,,,,,,,,"concern that it could evolve freshwater tolerance Groner et al. 2019, Ljungfeldt et al. 2017",,NA,52,,NA,52
+214,Mytilopsis leucophaeata,dark false mussel,mollusc,invertebrate,,,,,,,,,,,,,,,NA,NA,,,no,yes,yes,,"Therriault et al. 2013, DFO Canadawide RA",,,,NA,NA,,NA,51
+336,Salvelinus confluentus,Bull trout,salmonid,fish,,,,,,,,,,,,,,,NA,NA,yes,Montana,no,no,no,Crossman 1991,,Clancy and Bourret 2020,,,NA,NA,,NA,50
+341,Salvelinus namaycush x Salvelinus malma OR Salvelinus confluentus,Lake trout x dolly varden or bull trout,salmonid,fish,,,,,,,,,,,,,,,NA,NA,,,,,,Crossman 1991,,,,,NA,NA,,NA,50
+390,Zostera japonica,Japanese eel-grass,grass,aquatic plant,yes,,,no,,,,,,,,,,,NA,NA,,,,,,BC Ministry List,,,,,NA,50,,NA,50
+219,Nelumbo,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,49,,NA,49
+383,Viral hemorrhagic septicemia virus ,Viral hemorrhagic septicemia virus (VHSV),,virus,,,,,,,,,,,yes,,,,NA,NA,,,no?,no?,yes?,,,,,,NA,NA,,NA,49
+319,Rana aurora,Red-legged frog,frog,amphibian,yes,,,yes,,,,,,,,,,,NA,NA,,,,,,BC Ministry List,,,,,NA,48,,NA,48
+369,Trapa natans,water chestnut,,aquatic plant,,,yes,,,,,yes,,,,,,,NA,NA,,,,,,Keller and Lodge 2007,,,,,NA,47,,NA,47
+284,Pomacea insularum,Island Apple Snail ,mollusc,invertebrate,,,No ,,,,,yes,,,,,,,NA,NA,,,yes,yes,no,"Schroeder et al. 2014, DFO SLRA 2014",Schroeder et al. 2014,,,,NA,NA,,NA,45
+33,Bellamya chinensis  OR Cipangopaludina chinensis,Chinese Mysterysnail ,mollusc,invertebrate,yes,,yes,no,,,,,,,,,,,NA,NA,yes,Washington,yes,yes,yes?,"Schroeder et al. 2014, BC Ministry List",,(Olden et al. 2009),,,NA,NA,,NA,44
+92,Echinodorus grandiflorus OR Echinodorus muricatus,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,43,,NA,43
+46,Cabomba aquatic,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,"Azan et al. 2015, Cohen et al. 2007",Azan et al. 2015,,Moderately Low,,NA,41,,NA,41
+171,Lota lota,burbot,burbot,fish,,,,,Northwest territories,,,,,,,,,,NA,NA,,,no,yes,no,Crossman 1991,,,,,NA,NA,,NA,40
+47,Cabomba caroliniana,,,aquatic plant,,,yes,,,,yes,,,,,,,,NA,NA,,,,,,"Keller and Lodge 2007, Cohen et al. 2007 ",,,,,NA,39,,NA,39
+242,Oreochromis aureus ,Blue tilapia ,tilapia,fish,,,,,,No,,,,,yes,,,,NA,NA,,,yes,yes,yes,Therriault and Webb 2017,Therriault and Webb 2017,,,,NA,NA,,NA,39
+287,Pontederia ,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,4,,NA,38
+295,Pseudacris regilla,Chorus frog,frog,amphibian,yes,,,yes,,,,,,,,,,,NA,NA,,,,,,BC Ministry List,,,,,NA,38,,NA,38
+56,Carex glauca OR Carex flacca,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,36,,NA,36
+82,Cyprinella lutrensis ,Red Shiner,Shiner,fish,,yes,no,,,,,yes,yes,,,,,,NA,NA,,,no,yes,no,Mandrak et al 2014,,Roy et al. 2018,,,NA,NA,,NA,36
+155,Lates calcarifer,Barramundi or Asian sea bass,bass,fish,,,,,,,,,,,yes,,,,NA,NA,,,yes,no,yes,DFO aquaculture liscence,,,,,NA,NA,,NA,36
+206,Mylopharyngodon piceus,Black carp,carp,fish,,,,,,Yes,,,yes,,,,,,NA,NA,,,yes,yes,yes,Therriault and Webb 2017,"Therriault and Webb 2017, DFO Canadawide RA",Roy et al. 2018,,,NA,NA,,NA,35
+293,Primula,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,35,,NA,35
+5,Alosa sapidissima,American shad,shad,fish,,yes,yes,,USA,,,,,,,,,,NA,NA,yes,,no,yes,no,"Crossman 1991, BC Ministry List",,,,,NA,NA,,NA,34
+97,Egeria najas,Narrow leaf elodea (Planchon),elodea,aquatic plant,,,no,,,,yes,,,,,,,,NA,NA,yes,Alaska,yes,no,no?,"DFO SLRA 2014, Azan et al. 2015, cohen et al. 2007",Azan et al. 2015,"(Luizza et al. 2016; Carey et al. 2016; Sethi et al. 2017; Schwoerer et al. 2020b, 2020a)",,,NA,NA,,NA,33
+229,Nymphaea stellata OR Nymphaea nouchali,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,33,,NA,33
+327,Ruellia,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,33,,NA,33
+39,Biomphalaria straminea ,,mollusc,invertebrate,,,No ,,,,,yes,,,,,,,NA,NA,,,yes,no,yes,"Schroeder et al. 2014, DFO SLRA 2014",,,,,NA,NA,,NA,32
+45,Butomus umbellatus,Flowering-rush,rush,aquatic plant,yes,,,no,,,,,,,,,,,NA,NA,,,,,,BC Ministry List,,,,,NA,31,,NA,31
+213,Mysis diluviana,Opossum shrimp,shrimp,invertebrate,,,,,,,,,,,,,,,NA,NA,yes,"Montana, Idaho, Washington",no,yes,no,,,"Ellis et al 2011, Devlin et al. 2017, Caldwell et al. 2016, Schoen et al. 2015",,,NA,NA,,NA,31
+1,Acipenser transmontanus ,white sturgeon,sturgeon,fish,,,,,"Oregon, California",,,,,,yes,,,,NA,NA,,,no,yes,no,"Crossman 1991, DFO aquaculture liscences",,,,,NA,NA,,NA,30
+40,Bithynia tentaculata ,Faucet Snail ,mollusc,invertebrate,,,yes,,,,,yes,,,,,,,NA,NA,yes,Montana,yes,yes,no,Schroeder et al. 2014,Harman 2000; Haynes et al. 2005,Sanland and Pierce 2021,,,NA,NA,,NA,30
+131,Hydrocotyle sibthorpioides OR Hydrocotyle maritima OR Hydrocotyle rotundifolia,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,30,,NA,30
+321,Rana clamitans,Green frog,frog,amphibian,yes,yes,,yes,,,,,,,,,,,NA,NA,,,no,yes,no,BC Ministry List,,,,,NA,NA,,NA,30
+263,Physella acuta ,European Physa ,mollusc,invertebrate,,,yes,,,,,yes,,,,,,,NA,NA,,,no,yes,yes,"Schroeder et al. 2014, Duggan et al. 2018",Schroeder et al. 2014,,,,NA,NA,,NA,29
+15,Anguilla australis ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,28,,NA,28
+386,Xiphophorus hellerii,Green swordtail,swordtail,fish,,,,,,,,,,,,,,,NA,NA,,,yes,yes,yes,Crossman 1991,,,,,NA,NA,,NA,28
+105,Faxonius rusticus,rusty crayfish,crayfish,invertebrate,,,yes,,,,,,,,,,,yes,NA,NA,,,no,yes,no,"Brown and Therriault, Keller and Lodge 2007",,,,,NA,NA,,NA,27
+380,Vallisneria spiralis ,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Cohen et al. 2007,,,,,NA,26,,NA,26
+387,Xiphophorus maculatus ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,26,,NA,26
+62,Chelydra serpentina,Eastern snapping turtle,turtle,reptile,yes,,,yes,,,,,,,,,,,NA,NA,,,no,yes,no?,BC Ministry List,,,,,NA,NA,,NA,25
+63,Chelydra serpentina serpentina,Eastern snapping turtle,turtle,reptile,yes,,,yes,,,,,,,,,,,NA,NA,,,,,,BC Ministry List,,,,,NA,25,,NA,25
+64,Cladophora aegagropila OR Aegagropila linnaei,"moss ball, marimo",(syn. Aegagropila linnaei),aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,yes,no,no,"Azan et al. 2015, Cohen et al. 2007",Azan et al. 2015,,,,NA,NA,,NA,25
+210,Myriophyllum heterophyllum,Varied-leaved watermilfoil,watermilfoil,aquatic plant,yes,,,no,,,yes,,,,,,,,NA,NA,,,no,yes,yes,"BC Ministry List, DFO SLRA 2014",,,,,NA,NA,,NA,25
+275,Poecilia latipinna ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,25,,NA,25
+145,Iris pseudacorus,Yellow iris,iris,aquatic plant,yes,,yes,no,,,yes,,,,,,,,NA,NA,,,no,yes,no?,"BC Ministry List, Keller and Lodge 2007",,,,,NA,NA,,NA,24
+220,Notemigonus crysoleucas,golden shiner,shiner,fish,,,yes,,,,,,,,,,,yes,NA,NA,yes,Washington,no,yes,no,Keller and Lodge 2007,,Bonar et al. 2005,,,NA,NA,,NA,24
+230,Nymphoides aquatic ,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,22,,NA,22
+296,Pseudodiaptomus forbesi,,copepoda,zooplankton,,,,,,,,,,,,,,,NA,NA,yes,Washington,yes,yes,no,,,"Dexter et al. 2020, Lee et al. 2016, Cordell et al. 2008",,,NA,NA,,NA,22
+360,Tardigrada,tardigrade,tardigrade,invertebrate,,,,,,,yes,,,,,,,,NA,NA,,,,,,Duggan et al. 2018,,,on Vallisneria plants,,NA,22,,NA,22
+58,Catostomus commersonii,White sucker,sucker,fish,,,,,Alberta,,,,,,,yes,,,NA,NA,yes,Montana,no,yes,no,Crossman 1991,,Clancy and Bourret 2020,,,NA,NA,,NA,21
+119,Hemichromis,Jewel cichlid (sp),cichlid,fish,yes,,,,,,,,,,,,,,NA,NA,,,,,,BC Ministry List,,,,,NA,NA,,NA,21
+162,Lepomis cyanellus,Green sunfish,sunfish,fish,,,,,,,,,,,,,,,NA,NA,yes,Washington,no,yes,yes,,,Bonar et al. 2005,,,NA,NA,,NA,21
+207,Myosotis,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,20,,NA,20
+38,Biomphalaria pfeifferi ,,mollusc,invertebrate,,,No ,,,,,yes,,,,,,,NA,NA,,,yes,no,no,"Schroeder et al. 2014, DFO SLRA 2014",,,,,NA,NA,,NA,19
+153,Lampetra fluviatilis ,european River lamprey ,lamprey,fish,,,,,,Yes,,,,,,,,,NA,NA,,,yes,no,yes,Therriault and Webb 2017,Therriault and Webb 2017,,,,NA,NA,,NA,19
+339,Salvelinus malma,Dolly varden trout,salmonid,fish,,,,,,,,,,,,,,,NA,NA,,,no,yes,no,Crossman 1991,,,,,NA,NA,,NA,19
+129,Hydrocharis morsus-ranae,european frog-bit,,aquatic plant,,,yes,,,,yes,,,,,,,,NA,NA,,,,,,Keller and Lodge 2007,,,,,NA,18,,NA,18
+237,Oncorhynchus keta,Chum salmon,salmonid,fish,,,,,"Alaska, Yukon",,,,,,,,,,NA,NA,,,no,yes,no,Crossman 1991,,,,,NA,NA,,NA,18
+250,Pectinatella magnifica,magnificent bryozoan,bryozoan,invertebrate,yes,,,no,,,,,,,,,,,NA,NA,,,no,yes,yes,BC Ministry List,,,,,NA,NA,,NA,18
+44,Bulinus truncatus ,,mollusc,invertebrate,,,Unknown ,,,,,yes,,,,,,,NA,NA,,,yes,no,no,"Schroeder et al. 2014, DFO SLRA 2014",,,,,NA,NA,,NA,17
+177,Lymnaea peregra ,wandering pond snail,mollusc,invertebrate,,,Unknown ,,,,,yes,,,,,,,NA,NA,,,yes,no,no?,"Schroeder et al. 2014, DFO SLRA 2014",Schroeder et al. 2014,,,,NA,NA,,NA,17
+232,Oenanthe,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,17,,NA,17
+269,Pisidium corneum OR Sphaerium corneum ,European Fingernail Clam ,mollusc,invertebrate,,,yes,,,,,,,,,,,,NA,NA,,,,,,Schroeder et al. 2014,Schroeder et al. 2014,Mackie 1976; Mackie 2000,parasite host,,NA,17,,NA,17
+264,Piaractus brachypomus,Red-bellied pacu,pacu,fish,yes,,,,,,,,,,,,,,NA,NA,,,yes,yes,yes,BC Ministry List,,,,,NA,NA,,NA,16
+297,Pseudodiaptomus inopinus,,copepoda,zooplankton,,,,,,,,,,,,,,,NA,NA,yes,Washington,yes,yes,no,,,Cordell et al. 2008,,,NA,NA,,NA,16
+35,Betta splendens,Siamese fighting fish,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Gertzen et al. 2007,,,,,NA,15,,NA,15
+81,Cyperus papyrus,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,High,,NA,15,,NA,15
+192,Microsorum pteropus OR Colysis pteropus,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,"Azan et al. 2015, cohen et al. 2007",Azan et al. 2015,,High,,NA,15,,NA,15
+221,Notropis hudsonius,Margined madtom or spottail shiner,shiner,fish,,yes,,yes,,,,maybe,,,,,,,NA,NA,,,no,yes,no,"Crossman 1991, BC Ministry List",,,,,NA,NA,,NA,15
+286,Pomoxis nigromaculatus ,Black crappie,crappie,fish,,yes,yes,,USA,,,yes,,,,,,,NA,NA,yes,"Montana, Washington",no,yes,no,"Crossman 1991, Mandrak et al 2014, BC Ministry List",,"Clancy and Bourret 2020, Bonar et al. 2005",,,NA,NA,,NA,15
+302,Ptychocheilus oregonensis ,Northern pikeminnow ,pikeminnow,fish,,,,,,No,,,,,,,,,NA,NA,yes,Montana,no,no,no,Therriault and Webb 2017,Therriault and Webb 2017,Clancy and Bourret 2020,,,NA,NA,,NA,15
+112,Glyceria maxima,Giant mannagrass,mannagrass,aquatic plant,yes,,yes,no,,,yes,,,,,,,,NA,NA,,,yes,yes,yes,"BC Ministry List, Keller and Lodge 2007",,,,,NA,NA,,NA,14
+180,Marsilea crenata OR Marsilea crenulata,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,14,,NA,14
+198,Monopterus albus ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,14,,NA,14
+218,Najas minor,less naiad,,aquatic plant,,,yes,,,,,yes,,,,,,,NA,NA,,,,,,Keller and Lodge 2007,,,,,NA,14,,NA,14
+22,Astronotus ocellatus,Oscar,cichlid,fish,yes,,,,,,,,,,,,,,NA,NA,,,yes,yes,yes,BC Ministry List,,,,,NA,NA,,NA,13
+69,Cordyline,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,13,,NA,13
+143,Ictiobus cyprinellus ,Bigmouth buffalo,buffalo,fish,,yes,yes,,,,,yes,yes,,,,,,NA,NA,,,no,yes,no,Mandrak et al 2014,,,,,NA,NA,,NA,13
+42,Bosmina coregoni,water flea,cladocera,zooplankton,,,,,,,,,,,,,,,NA,NA,yes,Washington,yes,yes,no,,Lee et al. 2016,,,,NA,NA,,NA,12
+351,Siniperca chuatsi ,Mandarin fish/Chinese perch,perch,fish,,,,,,,,yes,yes,,,,,,NA,NA,,,yes,no,no?,Mandrak et al 2014,,Roy et al. 2018,,,NA,NA,,NA,12
+365,Thymallus arcticus,Arctic grayling,grayling,fish,,,,,"Yukon, Alaska, Northwest Terrirtories",,,,,,,,,,NA,NA,,,no,yes,yes,Crossman 1991,,,,,NA,NA,,NA,12
+27,Bacopa caroliniana OR Bacopa amplexicaulis,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,"Azan et al. 2015, Cohen et al. 2007",Azan et al. 2015,,Moderately Low,,NA,11,,NA,11
+106,Faxonius virilis,Virile or Northern crayfish,crayfish,invertebrate,yes,,,,#NAME?,,,,,,,,,,NA,NA,yes,Washington,no,yes,no,Brown and Therriault,(Larson et al. 2010; Loffredo et al. 2019),,,,NA,NA,,NA,11
+122,Heterandria formosa ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,11,,NA,11
+127,Houttuynia,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,11,,NA,11
+169,Limnoithona tetraspina,,copepoda,zooplankton,,,,,,,,,,,,,,,NA,NA,yes,Washington,yes,yes,yes?,,,Cordell et al. 2008,,,NA,NA,,NA,11
+197,Mogurnda mogurnda ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,11,,NA,11
+347,Saprolegnia parasitica,water mould,Ootmycetes,fungus,,,,,,,,,,,,,,,NA,NA,,,,,,,,(de la Bastide et al. 2018),,,NA,11,,NA,11
+36,Biomphalaria alexandrina ,,mollusc,invertebrate,,,Unknown ,,,,,yes,,,,,,,NA,NA,,,yes,no,no,"Schroeder et al. 2014, DFO SLRA 2014",,,,,NA,NA,,NA,10
+72,Craspedacusta sowerbyi,Freshwater jellyfish,hydrozoan,invertebrate,yes,,,no,,,,yes,,,,,,,NA,NA,,,yes,yes,yes,"BC Ministry List, Duggan et al. 2018",,,,,NA,NA,,NA,10
+135,Hygrophila polysperma ,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Cohen et al. 2007,,,,,NA,10,,NA,10
+278,Poecilia sphenops ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,10,,NA,10
+345,Sander canadensis ,Sauger ,Sauger,fish,,,,,,No,,,,,,,,,NA,NA,,,no,yes,no,Therriault and Webb 2017,Therriault and Webb 2017,,,,NA,NA,,NA,10
+28,Bacopa monnieri ,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Cohen et al. 2007,,,,,NA,9,,NA,9
+78,Culaea inconstans ,Brook stickleback,stickleback,fish,,,,,Alberta,Yes,,,,,,yes,,,NA,NA,yes,Washington,no,yes,no,"Crossman 1991, Therriault and Webb 2017",Therriault and Webb 2017,(Scholz et al. 2003; Wieker et al. 2016),,,NA,NA,,NA,9
+98,Eichhornia azurea ,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Cohen et al. 2007,,,,,NA,9,,NA,9
+134,Hygrophila difformis OR Synnema triflorum,water wisteria,(Blume) (syn. Synnema triflorum),aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,yes,yes,no,"Azan et al. 2015, Cohen et al. 2007",Azan et al. 2015,,,,NA,NA,,NA,9
+148,Juncus bulbosus,Bulbous rush,rush,aquatic plant,yes,,,no,,,,,,,,,,,NA,NA,,,,,,BC Ministry List,,,,,NA,9,,NA,9
+195,Misgurnus fossilis ,weatherfish,weatherfish,fish,,yes,no,,,,,yes,,,,,,,NA,NA,,,yes,no,no,Mandrak et al 2014,,,,,NA,NA,,NA,9
+201,Morone saxatilis x chrysops ,Wiper,Bass,fish,,,no,,,,,yes,yes,,,,,,NA,NA,,,,,,Mandrak et al 2014,,Roy et al. 2018,,,NA,9,,NA,9
+231,Nymphoides peltata,Yellow floating heart,heart,aquatic plant,yes,,yes,no,,,yes,yes,,,,,,,NA,NA,,,yes,yes,yes,"BC Ministry List, Keller and Lodge 2007",,,,,NA,NA,,NA,9
+268,Pisidium amnicum ,Greater European Peaclam ,mollusc,invertebrate,,,yes,,,,,,,,,,,,NA,NA,,,,,,Schroeder et al. 2014,Schroeder et al. 2014,,,,NA,9,,NA,9
+300,Pterophyllum scalare,Angelfish,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Gertzen et al. 2007,,,,,NA,9,,NA,9
+342,Salvelinus trutta x Salvelinus namaycush OR Splake,Splake,Splake,fish,yes,,,,,,,,,,,,,,NA,NA,,,no,yes,no,BC Ministry List,,,,,NA,NA,,NA,9
+9,Ameiurus natalis,Yellow bullhead,bullhead catfish,fish,yes,,,,,,,,,,,,,,NA,NA,yes,Montana,no,yes,no,BC Ministry List,,Clancy and Bourret 2020,,,NA,NA,,NA,8
+79,Cyperus alternifolius,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately High,,NA,8,,NA,8
+94,Echinodorus tenellus OR Helanthium tenellum,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,8,,NA,8
+114,Gymnocoronis spilanthoides,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Cohen et al. 2007,,,,,NA,8,,NA,8
+116,Helisoma anceps ,Two-ridge Rams Horn ,mollusc,invertebrate,,,yes,,,,,,,,,,,,NA,NA,,,,,,Schroeder et al. 2014,Schroeder et al. 2014,,,,NA,8,,NA,8
+193,Mimulus luteus,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,8,,NA,8
+258,Petromyzontidae,lamprey (sp),lamprey,fish,,,,,"Washington, California",,,,,,,,,,NA,NA,,,,,,Crossman 1991,,,,,NA,NA,,NA,8
+280,Pogostemon stellatus OR Dysophylla stellata OR Eusteralis stellata,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,8,,NA,8
+318,Radix auricularia ,"European Ear Snail, Big-eared Radix ",mollusc,invertebrate,,,yes,,,,,,,,,,,,NA,NA,yes,Washington,yes,yes,no,Schroeder et al. 2014,Harman 2000; Haynes et al. 2005,Larson et al. 2018,,,NA,NA,,NA,8
+374,Typha minima,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,High,,NA,8,,NA,8
+34,Bellamya japonica OR Cipangopaludina japonica,Japanese Mysterysnail ,mollusc,invertebrate,,,yes,,,,,,,,,,,,NA,NA,,,,,,Schroeder et al. 2014,,,net fouler,,NA,7,,NA,7
+73,Crinum,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,7,,NA,7
+144,Indoplanorbis exustus ,,mollusc,invertebrate,,,No ,,,,,yes,,,,,,,NA,NA,,,yes,no,no,"Schroeder et al. 2014, DFO SLRA 2014",Schroeder et al. 2014,,,,NA,NA,,NA,7
+168,Leuciscus idus ,ide,ide,fish,,yes,no,,,,,yes,yes,,,,,,NA,NA,,,yes,yes,yes,Mandrak et al 2014,,Roy et al. 2018,,,NA,NA,,NA,7
+186,Mentha aquatic,water mint,,aquatic plant,,,yes,,,,yes,,,,,,,,NA,NA,,,,,,Keller and Lodge 2007,,,,,NA,7,,NA,7
+224,Nymphaea alba,European white waterlily,waterlily,aquatic plant,,,yes,,,,yes,,,,,,,,NA,NA,,,,,,DFO SLRA 2014,,,,,NA,7,,NA,7
+228,Nymphaea odorata,Fragrant waterlily,waterlily,aquatic plant,yes,,,no,,,,,,,,,,,NA,NA,,,,,,BC Ministry List,,,,,NA,7,,NA,7
+325,Rotala,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately High,,NA,7,,NA,7
+331,Sagittaria platyphylla,Delta arrowhead,arrowhead,aquatic plant,,,no,,,,yes,,,,,,,,NA,NA,,,no,yes,yes,"DFO SLRA 2014, cohen et al. 2007",,,,,NA,NA,,NA,7
+20,Aponogeton crispus OR Aponogeton elongatus,Ruffled Sword Plant,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,"Azan et al. 2015, Cohen et al. 2007",Azan et al. 2015,,Moderately Low,,NA,6,,NA,6
+24,Azolla caroliniana,Eastern mosquito fern,fern,aquatic plant,yes,,,no,,,,,,,,,,,NA,NA,,,,,,BC Ministry List,,,,,NA,6,,NA,6
+49,Cabomba piauhyensis OR Cabomba furcata,Red Cabomba Plant,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately High,,NA,6,,NA,6
+66,Colisa lalia,Dwarf gourami,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Gertzen et al. 2007,,,,,NA,6,,NA,6
+149,Juncus repens,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately High,,NA,6,,NA,6
+160,Lepisosteus oculatus ,Spotted gar,gar,fish,,yes,yes,,,,,yes,,,,,,,NA,NA,,,no,yes,no,Mandrak et al 2014,,,,,NA,NA,,NA,6
+172,Ludwigia palustris ,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Cohen et al. 2007,,,,,NA,6,,NA,6
+256,Percopsis omiscomaycus,trout-perch,perch,fish,,,,,,,,,,,,,,,NA,NA,,,no,yes,no,Crossman 1991,,,,,NA,NA,,NA,6
+274,Plumatella,bryozoan,bryozoan,invertebrate,,,,,,,,yes,,,,,,,NA,NA,,,,,,Duggan et al. 2018,,,on sword plants,,NA,6,,NA,6
+279,Poecilia velifera ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,6,,NA,6
+348,Schizopera,,copepoda,zooplankton,,,,,,,yes,,,,,,,,NA,NA,,,,,,Duggan et al. 2018,,,on sword plants and Vallisneria plants,,NA,6,,NA,6
+367,Tonina fluviatilis OR Hyphydra amplexicaulis OR Tonina fluviatilis f. parvifolia,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,6,,NA,6
+388,Xiphophorus variatus ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,6,,NA,6
+16,Anguilla bicolor ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,5,,NA,5
+23,Atractosteus spatula ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,5,,NA,5
+61,Channa maculata,Blotched snakehead,snakehead,fish,yes,,,,,,,,yes,,,,,,NA,NA,,,yes,yes,no,BC Ministry List,,Roy et al. 2018,,,NA,NA,,NA,5
+65,Cobitis taenia ,Spined loach,loach,fish,,yes,no,,,,,yes,,,,,,,NA,NA,,,yes,no,no,Mandrak et al 2014,,,,,NA,NA,,NA,5
+74,Cryptocoryne cordata OR Cryptocoryne blassii,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,5,,NA,5
+93,Echinodorus martii OR Echinodorus major,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,5,,NA,5
+95,Echinodorus uruguayensis OR Echinodorus osiris OR Echinodorus barthii,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately High,,NA,5,,NA,5
+146,Isolepis cernua OR Scirpus cernuus,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,5,,NA,5
+164,Lepomis gulosus,Warmouth,sunfish,fish,,,,,,,,,,,,,,,NA,NA,yes,Washington,no,yes,no,,,Bonar et al. 2005,,,NA,NA,,NA,5
+173,Ludwigia repens,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Cohen et al. 2007,,,,,NA,5,,NA,5
+179,Lysimachia nummularia,moneywort,,aquatic plant,,,yes,,,,yes,,,,,,,,NA,NA,,,,,,Keller and Lodge 2007,,,,,NA,5,,NA,5
+183,Marsilea quadrifolia,water shamrock,,aquatic plant,,,yes,,,,yes,,,,,,,,NA,NA,,,,,,Keller and Lodge 2007,,,,,NA,5,,NA,5
+196,Mogurnda adspersa ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,5,,NA,5
+233,Oenanthe aquatica,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,5,,NA,5
+285,Pomoxis annularis ,White crappie ,crappie,fish,,,,,,No,,,,,,,,,NA,NA,yes,Montana,no,yes,no,Therriault and Webb 2017,Therriault and Webb 2017,Clancy and Bourret 2020,,,NA,NA,,NA,5
+323,Richardsonius balteatus,Redside shiner,shiner,fish,yes,,,yes,Alberta,,,,,,,,,,NA,NA,yes,Montana,no,yes,no,"Crossman 1991, BC Ministry List",,Clancy and Bourret 2020,,,NA,NA,,NA,5
+352,Sinocalanus doerrii,asian calanoid copepod,copepoda,zooplankton,,,,,,,,,,,,,,,NA,NA,yes,Washington,yes,yes,no,,,Cordell et al. 2008,,,NA,NA,,NA,5
+30,Barbonymus schwanenfeldii ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,4,,NA,4
+41,Bletilla striata,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,4,,NA,4
+51,Callitriche stagnalis,Pond water-starwort,starwort,aquatic plant,yes,,,no,,,,,,,,,,,NA,NA,,,,,,BC Ministry List,,,,,NA,4,,NA,4
+87,Dracaena sanderiana,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,"Azan et al. 2015, Cohen et al. 2007",Azan et al. 2015,,Moderately Low,,NA,4,,NA,4
+136,Hygrophila stricta OR Nomaphylla stricta,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately High,,NA,4,,NA,4
+174,Lycoris radiata,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,4,,NA,4
+225,Nymphaea lotus,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately High,,NA,4,,NA,4
+234,Oncorhynchus aguabonita,Golden trout,salmonid,fish,,,,,,,,maybe,,,,,,,NA,NA,,,no,yes,no,Crossman 1991,,,,,NA,NA,,NA,4
+262,Physa fontinalis ,Common Bladder Snail ,mollusc,invertebrate,,,yes,,,,,,,,,,,,NA,NA,,,,,,Schroeder et al. 2014,Schroeder et al. 2014,,,,NA,4,,NA,4
+267,piscine orthoreovirus,piscine orthoreovirus (PRV-1),,virus,,,,,,,,,,,yes,,,,NA,NA,,,no,yes,no?,,,,,,NA,NA,,NA,4
+281,Pomacea bridgesi ,"Apple Snail, Spiketop Apple Snail, Golden Mystery Snail ",mollusc,invertebrate,,,No ,,,,,yes,,,,,,,NA,NA,,,yes,no,no?,"Schroeder et al. 2014, DFO SLRA 2014",Schroeder et al. 2014,,,,NA,NA,,NA,4
+338,Salvelinus fontinalis x Salvelinus namaycush,Brook trout x lake trout hybrid ,hybrid,fish,,,,,,,,,,,,,,,NA,NA,,,no,,,Crossman 1991,,,,,NA,NA,,NA,4
+353,Spathiphyllum,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,High,,NA,4,,NA,4
+363,Thalia dealbata,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately High,,NA,4,,NA,4
+370,Trichocerca,,rotifer,zooplankton,,,,,,,yes,,,,,,,,NA,NA,,,,,,Duggan et al. 2018,,,on Vallisneria plants,,NA,4,,NA,4
+389,Zizania aquatica,Wild rice,rice,aquatic plant,yes,,,no,,,,,,,,,,,NA,NA,,,,,,BC Ministry List,,,,,NA,4,,NA,4
+32,Barclaya longifolia OR Hydrostemma longifolium,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,3,,NA,3
+50,Caladium ,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,3,,NA,3
+52,Caltha,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,3,,NA,3
+60,Ceratopteris thalictroides,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Cohen et al. 2007,,,,,NA,3,,NA,3
+104,Eucyclops serrulatus,,copepoda,zooplankton,,,,,,,yes,,,,,,,,NA,NA,,,,,,Duggan et al. 2018,,,on sword plants and Vallisneria plants,,NA,3,,NA,3
+147,Jordanella floridae ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,3,,NA,3
+208,Myosotis scorpioides,European forget-me-not,not,aquatic plant,yes,yes,yes,no,,,yes,,,,,,,,NA,NA,,,yes,yes,no,"BC Ministry List, Keller and Lodge 2007",,,,,NA,NA,,NA,3
+248,Palaemon modestus,Siberian prawn,shrimp,invertebrate,,,,,,,,,,,,,,,NA,NA,yes,Washington,yes,yes,no,,,Erhardt and Tiffan 2016,,,NA,NA,,NA,3
+259,Phoxinus neogaeus ,Finescale dace,dace,fish,,yes,yes,,,,,yes,,,,,,,NA,NA,,,no,no,no,Mandrak et al 2014,,,,,NA,NA,,NA,3
+273,Platygobio gracilis,Flathead chub,chub,fish,,,,,Alberta,,,,,,,,,,NA,NA,,,no,yes,no,Crossman 1991,,,,,NA,NA,,NA,3
+283,Pomacea haustrum ,Titan Apple Snail ,mollusc,invertebrate,,,No ,,,,,yes,,,,,,,NA,NA,,,yes,yes?,no,"Schroeder et al. 2014, DFO SLRA 2014",Schroeder et al. 2014,,,,NA,NA,,NA,3
+307,Puntius filamentosus ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,3,,NA,3
+315,Puntius semifasciolatus ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,3,,NA,3
+316,Puntius tetrazona ,Tiger barb,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,"Mandrak et al. 2014, Gertzen et al. 2007",,,not climate match to canada,family climate match ,NA,3,,NA,3
+357,Syngonium,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,3,,NA,3
+358,Tanichthys albonubes,white cloudmountain minnow,minnow,fish,,,,,,,,yes,,,,,,,NA,NA,,,yes,no,no,Gertzen et al. 2007,,,,,NA,NA,,NA,3
+359,Tanichthys albonubes ,white cloudmountain minnow,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,"Mandrak et al. 2014, Gertzen et al. 2007",,,not climate match to canada,family climate match ,NA,3,,NA,3
+12,Amia calva,bowfin,bowfin,fish,,,,,Ontario,,,,,,,,,,NA,NA,,,no,yes,no,Crossman 1991,,,,,NA,NA,,NA,2
+71,Couesius plumbeus,Lake chub,chub,fish,,,,,Alberta,,,,,,,yes,,,NA,NA,,,no,yes,no,Crossman 1991,,,,,NA,NA,,NA,2
+75,Cryptocoryne crispatula OR Cryptocoryne balansae OR Cryptocoryne tonkinensis,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,"Azan et al. 2015, Cohen et al. 2007",Azan et al. 2015,,Moderately Low,,NA,2,,NA,2
+90,Echinodorus bolivianus OR Echinodorus latifolius OR Echinodorus angustifolius OR Echinodorus quadricostatus,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,2,,NA,2
+100,Elimia livescens ,Liver Elimia ,mollusc,invertebrate,,,Unknown ,,,,,yes,,,,,,,NA,NA,,,no,yes?,no,"Schroeder et al. 2014, DFO SLRA 2014",Schroeder et al. 2014,,,,NA,NA,,NA,2
+101,Erimyzon sucetta ,Lake chubsucker ,sucker,fish,,,,,,Yes,,,,,,,,,NA,NA,,,no,yes?,no,Therriault and Webb 2017,Therriault and Webb 2017,,,,NA,NA,,NA,2
+102,Esox americanus ,Redfin pickerel ,pickerel,fish,,,,,,Yes,,,,,,,,,NA,NA,,,no,yes?,no,Therriault and Webb 2017,Therriault and Webb 2017,,,,NA,NA,,NA,2
+126,Hottonia palustris ,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,2,,NA,2
+132,Hygrophila angustifolia OR Hygrophila salicifolia,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,"Azan et al. 2015, cohen et al. 2007",Azan et al. 2015,,Moderately High,,NA,2,,NA,2
+137,Hymenocallis,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,2,,NA,2
+151,Kryptopterus bicirrhis ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,2,,NA,2
+152,Lampetra ayresii ,Western river lamprey ,lamprey,fish,,,,,,No,,,,,,,,,NA,NA,,,no,no,no,Therriault and Webb 2017,Therriault and Webb 2017,,,,NA,NA,,NA,2
+161,Lepisosteus osseus ,Longnose gar,gar,fish,,yes,yes,,,,,yes,,,,,,,NA,NA,,,no,no,no,Mandrak et al 2014,,,,,NA,NA,,NA,2
+166,Lepomis megalotis ,Longear sunfish ,sunfish,fish,,yes,yes,,,,,yes,,,,,,,NA,NA,yes,Montana,no,yes,no,Mandrak et al 2014,,Clancy and Bourret 2020,,,NA,NA,,NA,2
+181,Marsilea hirsuta,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,2,,NA,2
+184,Mayaca fluviatilis,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,"Azan et al. 2015, Cohen et al. 2007",Azan et al. 2015,,Moderately High,,NA,2,,NA,2
+205,Musculium partumeium ,Swamp Fingernail Clam ,mollusc,invertebrate,,,yes,,,,,,,,,,,,NA,NA,,,,,,Schroeder et al. 2014,Schroeder et al. 2014,,,,NA,2,,NA,2
+211,Myriophyllum propinquum,Common water milfoil,milfoil,aquatic plant,,,,no,,,yes,,,,,,,,NA,NA,,,,,,DFO SLRA 2014,,,,,NA,2,,NA,2
+226,Nymphaea mexicana,Yellow waterlily,waterlily,aquatic plant,yes,,,no,,,yes,,,,,,,,NA,NA,,,no,yes,yes,"BC Ministry List, Azan et al. 2015",Azan et al. 2015,,,,NA,NA,,NA,2
+235,Oncorhynchus clarki lewisi x Oncorhynchus mykiss,Westslope cutthroat trout x rainbow trout hybrid,salmonid,fish,,,,,,,,,,,,,,,NA,NA,,,no,,,Crossman 1991,,,,,NA,NA,,NA,2
+246,Oxyeleotris marmorata ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,2,,NA,2
+270,Pisidium henslowanum ,Henslow Peaclam ,mollusc,invertebrate,,,yes,,,,,,,,,,,,NA,NA,,,,,,Schroeder et al. 2014,Schroeder et al. 2014,,,,NA,2,,NA,2
+292,Priapella intermedia ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,2,,NA,2
+305,Puntius conchonius ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,2,,NA,2
+324,Rorippa nasturtium-aquaticum,Common water cress,cress,aquatic plant,yes,,,no,,,,,,,,,,,NA,NA,,,,,,BC Ministry List,,,,,NA,2,,NA,2
+343,Salvinia auriculata,eared watermoss,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Keller and Lodge 2007,,,,,NA,2,,NA,2
+355,Sphaerium corneum,European Fingernail Clam ,mollusc,invertebrate,,,yes,,,,,,,,,,,,NA,NA,,,yes,yes,yes,Schroeder et al. 2014,Schroeder et al. 2014,Mackie 1976; Mackie 2000,,,NA,NA,,NA,2
+362,Taxiphyllum,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately High,,NA,2,,NA,2
+364,Thalia geniculata,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,2,,NA,2
+375,Umbra limi,Central Mud Minnow,Minnow,fish,,,,,,,,,,,,,,,NA,NA,yes,Montana,no,yes,no,,,Clancy and Bourret 2020,,,NA,NA,,NA,2
+378,Vallisneria gigantea,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Cohen et al. 2007,,,,,NA,2,,NA,2
+382,Veronica anagallis-aquatica,Blue water speedwell,speedwell,aquatic plant,yes,,,no,,,,,,,,,,,NA,NA,,,,,,BC Ministry List,,,,,NA,2,,NA,2
+2,Acorus gramineus,Grassy-leaved sweet flag (Japanese sweetflag) ,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,1,,NA,1
+3,Agapanthus africanus ,lily of the Nile,,plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,1,,NA,1
+11,Ameiurus platycephalus ,Flat bullhead,bullhead,fish,,,,,,Yes,,,,,,,,,NA,NA,yes,Montana,no,yes,yes,Therriault and Webb 2017,Therriault and Webb 2017,Clancy and Bourret 2020,,,NA,NA,,NA,1
+13,Ammania senegalensis OR Ammannia auriculata,copper leaf ammania,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately High,,NA,1,,NA,1
+14,Anemopsis californica,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,1,,NA,1
+19,Anubias,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately High,,NA,1,,NA,1
+21,Aponogeton madagascariensis,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,"Azan et al. 2015, Cohen et al. 2007",Azan et al. 2015,,Moderately Low,,NA,1,,NA,1
+26,Bacopa australis,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,1,,NA,1
+29,Barbonymus altus ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,1,,NA,1
+31,Barclaya,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,1,,NA,1
+43,Brachygobius doriae ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,1,,NA,1
+48,Cabomba palaeformis,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,1,,NA,1
+76,Cryptocoryne undulata OR Cryptocoryne willisii,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately High,,NA,1,,NA,1
+80,Cyperus longus,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,1,,NA,1
+86,Dracaena fragrans,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,1,,NA,1
+91,Echinodorus cordifolius,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,1,,NA,1
+99,Elassoma evergladei ,,,fish,,,,,,,,,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,1,,NA,1
+110,Glyceria declinata,Waxy mannagrass,mannagrass,aquatic plant,yes,,,no,,,,,,,,,,,NA,NA,,,,,,BC Ministry List,,,,,NA,1,,NA,1
+111,Glyceria fluitans,Floating sweet-grass,grass,aquatic plant,yes,,,no,,,,,,,,,,,NA,NA,,,,,,BC Ministry List,,,,,NA,1,,NA,1
+115,Harpacticella paradoxa,,copepoda,zooplankton,,,,,,,,,,,,,,,NA,NA,yes,Washington,yes,yes,no,,,Cordell et al. 2007,,,NA,NA,,NA,1
+118,Hemianthus callitrichoides OR Micranthemum umbrosum,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,1,,NA,1
+120,Hemigraphis repanda OR Ruellia repanda,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately High,,NA,1,,NA,1
+123,Heteranthera zosterifolia,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,1,,NA,1
+124,Hibiscus acetosella,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,1,,NA,1
+133,Hygrophila corymbosa,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,High,,NA,1,,NA,1
+140,Ichthyomyzon greeleyi ,Mountain brook lamprey ,lamprey,fish,,,,,,No,,,,,,,,,NA,NA,,,no,no,no,Therriault and Webb 2017,Therriault and Webb 2017,,,,NA,NA,,NA,1
+150,Jussiaea diffusa,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,1,,NA,1
+156,Lecane monostyla,,rotifer,zooplankton,,,,,,,yes,,,,,,,,NA,NA,,,,,,Duggan et al. 2018,,,on Vallisneria plants,,NA,1,,NA,1
+157,Lecane pyriformis,,rotifer,zooplankton,,,,,,,yes,,,,,,,,NA,NA,,,,,,Duggan et al. 2018,,,on Vallisneria plants,,NA,1,,NA,1
+158,Lepadella ovalis,,rotifer,zooplankton,,,,,,,yes,,,,,,,,NA,NA,,,,,,Duggan et al. 2018,,,on sword plants and Vallisneria plants,,NA,1,,NA,1
+167,Lethenteron alaskense ,Alaskan brook lamprey,lamprey,fish,,,,,,No,,,,,,,,,NA,NA,,,no,no,no,Therriault and Webb 2017,Therriault and Webb 2017,,,,NA,NA,,NA,1
+170,Lobelia sessilifolia ,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately High,,NA,1,,NA,1
+182,Marsilea mutica,water fern,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Keller and Lodge 2007,,,,,NA,1,,NA,1
+187,Microcyclops rubellus,,copepoda,zooplankton,,,,,,,yes,,,,,,,,NA,NA,,,,,,Duggan et al. 2018,,,on Sword plants,,NA,1,,NA,1
+188,Micromeria brownei OR Clinopodium brownei,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,1,,NA,1
+191,Microsorum pteropus ,java fern,Copel. (syn. Colysis pteropus),aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,yes,no,no,"Azan et al. 2015, cohen et al. 2007",Azan et al. 2015,,,,NA,NA,,NA,1
+204,Musculium lacustre ,Lake Fingernail Clam ,mollusc,invertebrate,,,yes,,,,,,,,,,,,NA,NA,,,,,,Schroeder et al. 2014,Schroeder et al. 2014,,,,NA,1,,NA,1
+216,Myxocyprinus asiaticus ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,1,,NA,1
+217,Najas graminea,Ricefield waternymph,waternymph,aquatic plant,,,no,,,,yes,,,,,,,,NA,NA,,,,,,DFO SLRA 2014,,,,,NA,1,,NA,1
+222,Noturus albater ,Ozark madtom ,madtom,fish,,,,,,Yes,,,,,,,,,NA,NA,,,no,no,no,Therriault and Webb 2017,Therriault and Webb 2017,,,,NA,NA,,NA,1
+227,Nymphaea nouchali,Blue lotus,lotus,aquatic plant,,,no,,,,yes,,,,,,,,NA,NA,,,,,,DFO SLRA 2014,,Mordecai et al. 2021,,,NA,1,,NA,1
+245,Otocinclus affinis,Golden otocinclus,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Gertzen et al. 2007,,,,,NA,1,,NA,1
+249,Parambassis ranga ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,1,,NA,1
+257,Periophthalmus barbarus ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,1,,NA,1
+266,Pimephales vigilax ,Bullhead minnow ,minnow,fish,,,,,,No,,,,,,,,,NA,NA,,,no,yes,no,Therriault and Webb 2017,Therriault and Webb 2017,,,,NA,NA,,NA,1
+276,Poecilia petenensis ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,1,,NA,1
+290,Potamogeton schweinfurthii,Pondweed,Pondweed,aquatic plant,,,no,,,,yes,,,,,,,,NA,NA,,,,,,DFO SLRA 2014,,,,,NA,1,,NA,1
+298,Pseudogastromyzon fasciatus ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,1,,NA,1
+303,Ptygura,,rotifer,zooplankton,,,,,,,yes,,,,,,,,NA,NA,,,,,,Duggan et al. 2018,,,on Vallisneria plants,,NA,1,,NA,1
+304,Puntius chola ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,1,,NA,1
+306,Puntius denisonii ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,1,,NA,1
+308,Puntius hexazona ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,1,,NA,1
+309,Puntius johorensis ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,1,,NA,1
+310,Puntius lateristriga ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,1,,NA,1
+311,Puntius lineatus ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,1,,NA,1
+312,Puntius oligolepis ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,1,,NA,1
+313,Puntius partipentazona ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,1,,NA,1
+314,Puntius sachsii ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,1,,NA,1
+317,Puntius ticto ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,1,,NA,1
+322,Rasbora trilineata ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,1,,NA,1
+326,Rotala indica ,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Cohen et al. 2007,,,,,NA,1,,NA,1
+330,Sagittaria natans,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Cohen et al. 2007,,,,,NA,1,,NA,1
+344,Salvinia oblongifolia,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately Low,,NA,1,,NA,1
+371,Tulbaghia,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,1,,NA,1
+372,Tulbaghia violacea,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Low,,NA,1,,NA,1
+377,Vallisneria asiatica ,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Cohen et al. 2007,,,,,NA,1,,NA,1
+379,Vallisneria rubra OR Maidenia rubra,,,aquatic plant,,,,,,,yes,,,,,,,,NA,NA,,,,,,Azan et al. 2015,Azan et al. 2015,,Moderately High,,NA,1,,NA,1
+381,Valvata piscinalis ,European Stream Valvata ,mollusc,invertebrate,,,yes,,,,,,,,,,,,NA,NA,,,yes,yes,yes,Schroeder et al. 2014,Harman 2000; Haynes et al. 2005,,,,NA,NA,,NA,1
+384,Xenentodon cancila ,,,fish,,,,,,,,yes,,,,,,,NA,NA,,,,,,Mandrak et al. 2014,,,not climate match to canada,family climate match ,NA,1,,NA,1
+4,Alosa mediocris,Hickory shad,shad,fish,,,,,,No,,,,,,,,,NA,NA,,,no,no,no,Therriault and Webb 2017,Therriault and Webb 2017,,,,NA,NA,,NA,0
+7,Ameiurus brunneus,Snail bullhead,bullhead,fish,,,,,,Yes,,,,,,,,,NA,NA,yes,Montana,no,yes?,no,Therriault and Webb 2017,Therriault and Webb 2017,Clancy and Bourret 2020,,,NA,NA,,NA,0
+84,Danio albolineatus ,Pearl danio,danio,fish,,yes,no,,,,,yes,,,,,,,NA,NA,,,yes,no,no,Mandrak et al 2014,,,,,NA,NA,,NA,0
+125,Hiodon alosoides,Goldeye,Goldeye,fish,,,,,Alberta,,,,,,,,,,NA,NA,,,no,yes,no,Crossman 1991,,,,,NA,NA,,NA,0
+154,Lampetra pacifica ,Pacific brook lamprey ,lamprey,fish,,,,,,No,,,,,,,,,NA,NA,,,no,no,no,Therriault and Webb 2017,Therriault and Webb 2017,,,,NA,NA,,NA,0
+199,Morone mississippiensis,Yellow bass,bass,fish,,,,,,Yes,,,,,,,,,NA,NA,,,no,yes,no,Therriault and Webb 2017,Therriault and Webb 2017,,,,NA,NA,,NA,0
+223,Noturus elegans ,Elegant madtom ,madtom,fish,,,,,,Yes,,,,,,,,,NA,NA,,,no,no,no,Therriault and Webb 2017,Therriault and Webb 2017,,,,NA,NA,,NA,0
+253,Percina antesella ,Amber darter ,darter,fish,,,,,,No,,,,,,,,,NA,NA,,,no,no,no,Therriault and Webb 2017,Therriault and Webb 2017,,,,NA,NA,,NA,0
+254,Percina aurantiaca ,Tangerine darter ,darter,fish,,,,,,No,,,,,,,,,NA,NA,,,no,no,no,Therriault and Webb 2017,Therriault and Webb 2017,,,,NA,NA,,NA,0
+255,Percina burtoni ,Blotchside darter ,darter,fish,,,,,,No,,,,,,,,,NA,NA,,,no,no,no,Therriault and Webb 2017,Therriault and Webb 2017,,,,NA,NA,,NA,0
+299,Pteronotropis hypselopterus ,Sailfin shiner ,shiner,fish,,,,,,No,,,,,,,,,NA,NA,,,no,no,no,Therriault and Webb 2017,Therriault and Webb 2017,,,,NA,NA,,NA,0
+332,Sagittaria subulata,Awl-leaf arrowhead,arrowhead,aquatic plant,,,,no,,,yes,,,,,,,,NA,NA,,,yes,no,yes,"DFO SLRA 2014, Azan et al. 2015, cohen et al. 2007",Azan et al. 2015,,,,NA,NA,,NA,0
